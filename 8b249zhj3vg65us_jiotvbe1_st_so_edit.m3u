@@ -1,0 +1,137 @@
+
+##STAR NETWORK 
+
+#EXTINF:-1 tvg-id="227" tvg-logo="" group-title="Jiostar",STAR GOLD ROMANCE b1g
+http://b1g.ooo/live/Regina/Regina123/865922.ts
+
+
+##Music
+
+#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="Music", HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music",IN | ZOOM MUSIC HD
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/246679
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music", T Play Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+##Star Network
+
+#EXTINF:-1 group-title="Jiostar",Star Gold Romance CA
+https://vishwas-oppu.vercel.app/play.m3u8?id=66186
+
+##SONY NETWORK 
+
+#EXTINF:-1 group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+
+
+##News
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News", NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",  News18 Lokmat
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News", TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News", Abp Majha
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_majha/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News", NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+Sports
+
+#EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.stream4k.cc/misc/logos/320/1132.jpg" group-title="SPORTS | CRICKET", Sony Sports 5 HD
+https://stream.riobucky17.workers.dev/?id=1132
+
+#EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.stream4k.cc/misc/logos/320/1132.jpg" group-title="SPORTS | CRICKET", Sony Sports 1 HD TataPlay
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/70042.jpeg" group-title="SPORTS | CRICKET", SONY TEN 1
+https://stream.riobucky17.workers.dev/?id=473383
+
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/70043.jpeg" group-title="SPORTS | CRICKET", SONY TEN 2
+https://stream.riobucky17.workers.dev/?id=473384
+
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/70044.jpeg" group-title="SPORTS | CRICKET", SONY TEN 3
+https://stream.riobucky17.workers.dev/?id=473385
+
+#EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.stream4k.cc/misc/logos/320/70045.jpeg" group-title="SPORTS | CRICKET", SONY TEN 4
+https://stream.riobucky17.workers.dev/?id=473386
+
+#EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.stream4k.cc/misc/logos/320/73405.jpg" group-title="SPORTS | CRICKET", SONY TEN 4 4K
+https://stream.riobucky17.workers.dev/?id=476691
+
+#EXTINF:-1 tvg-id="Default" tvg-logo="http://tv.stream4k.cc/misc/logos/320/73562.jpg" group-title="SPORTS | CRICKET", SONY TEN 5 4K
+https://stream.riobucky17.workers.dev/?id=476849
+
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/777.png" group-title="SPORTS | CRICKET", SONY TEN 1 4K
+https://stream.riobucky17.workers.dev/?id=777
+
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/778.png" group-title="SPORTS | CRICKET", SONY TEN 2 4K
+https://stream.riobucky17.workers.dev/?id=778
+
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/778.png" group-title="SPORTS | CRICKET", SONY TEN 2 Google 
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/779.png" group-title="SPORTS | CRICKET", SONY TEN 3 4K
+https://stream.riobucky17.workers.dev/?id=779
+
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-logo="http://tv.stream4k.cc/misc/logos/320/779.png" group-title="SPORTS | CRICKET", SONY TEN 3 Google
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2
+https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3
+https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 4
+https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5
+https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
