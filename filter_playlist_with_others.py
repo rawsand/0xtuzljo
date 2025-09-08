@@ -67,7 +67,7 @@ if __name__ == "__main__":
     # URLs passed as arguments (can be 0, 1, or more)
     urls = [arg for arg in sys.argv[1:] if arg.startswith("http")]
     # Local file (if provided as an argument, e.g., local.m3u)
-    local_file = 8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u
+    local_file = "8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u"
     channel_names = [
         "Disney Junior",
         "Star Gold HD",
