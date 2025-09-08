@@ -1,0 +1,71 @@
+
+name: Clone Private Repository Workflow
+
+on:
+  push:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+    
+  job-public-repo-ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      
+      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          owner: 'GuillaumeFalourd'
+          branch: master
+          repository: 'formulas-training'
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+      
+      - name: Access cloned repository content
+        run: |
+          echo "ROOT"
+          ls -la
+          echo "CLONED REPO"
+          cd formulas-training
+          ls -la
+
+  job-public-repo-macos:
+    runs-on: macos-latest
+    steps:
+      
+      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          owner: 'GuillaumeFalourd'
+          branch: master
+          repository: 'formulas-training'
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+      
+      - name: Access cloned repository content
+        run: |
+          echo "ROOT"
+          ls -la
+          echo "CLONED REPO"
+          cd formulas-training
+          ls -la
+
+  job-public-repo-window:
+    runs-on: windows-latest
+    steps:
+      
+      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
+        uses: GuillaumeFalourd/clone-github-repo-action@main
+        with:
+          owner: 'GuillaumeFalourd'
+          branch: master
+          repository: 'formulas-training'
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+      
+      - name: Access cloned repository content
+        run: |
+          echo "ROOT"
+          ls -la
+          echo "CLONED REPO"
+          cd formulas-training
+          ls -la
+        shell: bash
