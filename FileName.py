@@ -30,5 +30,5 @@ def create_m3u_from_url(url, output_filename="playlist.m3u"):
 # Replace 'your_url_here' with the actual URL of your source file.
 # This URL should ideally point to a plain text file where each line
 # is a path or URL to a media file.
-source_url = "https://github.com/rawsand/0xtuzljoN/raw/refs/heads/main/output_blocks/filtered_playlist_final.m3u"
+source_url = "https://raw.githubusercontent.com/rawsand/0xtuzljoN/refs/heads/main/output_blocks/filtered_playlist_final.m3u?token=GHSAT0AAAAAADKWYI6P3VZP5LUYBQFRT7IU2F6VVPA"
 create_m3u_from_url(source_url, "my_media_playlist.m3u")
