@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       
-      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
-        uses: GuillaumeFalourd/clone-github-repo-action@main
+      - name: Clone rawsand/0xtuzljoN PRIVATE repository
+        uses: rawsand/clone-github-repo-action@main
         with:
-          owner: 'GuillaumeFalourd'
+          owner: 'rawsand'
           branch: master
-          repository: 'formulas-training'
+          repository: '0xtuzljoN'
           access-token: ${{ secrets.ACCESS_TOKEN }}
       
       - name: Access cloned repository content
@@ -26,46 +26,46 @@ jobs:
           echo "ROOT"
           ls -la
           echo "CLONED REPO"
-          cd formulas-training
+          cd 0xtuzljoN
           ls -la
 
   job-public-repo-macos:
     runs-on: macos-latest
     steps:
       
-      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
-        uses: GuillaumeFalourd/clone-github-repo-action@main
+      - name: Clone rawsand/0xtuzljoN PRIVATE repository
+        uses: rawsand/clone-github-repo-action@main
         with:
-          owner: 'GuillaumeFalourd'
+          owner: 'rawsand'
           branch: master
-          repository: 'formulas-training'
-          access-token: ${{ secrets.ACCESS_TOKEN }}
+          repository: '0xtuzljoN'
+          access-token: ${{ secrets.DEST_REPO_TOKEN }}
       
       - name: Access cloned repository content
         run: |
           echo "ROOT"
           ls -la
           echo "CLONED REPO"
-          cd formulas-training
+          cd 0xtuzljoN
           ls -la
 
   job-public-repo-window:
     runs-on: windows-latest
     steps:
       
-      - name: Clone GuillaumeFalourd/formulas-training PRIVATE repository
-        uses: GuillaumeFalourd/clone-github-repo-action@main
+      - name: Clone rawsand/0xtuzljoN PRIVATE repository
+        uses: rawsand/clone-github-repo-action@main
         with:
-          owner: 'GuillaumeFalourd'
+          owner: 'rawsand'
           branch: master
-          repository: 'formulas-training'
-          access-token: ${{ secrets.ACCESS_TOKEN }}
+          repository: '0xtuzljoN'
+          access-token: ${{ secrets.DEST_REPO_TOKEN }}
       
       - name: Access cloned repository content
         run: |
           echo "ROOT"
           ls -la
           echo "CLONED REPO"
-          cd formulas-training
+          cd 0xtuzljoN
           ls -la
         shell: bash
