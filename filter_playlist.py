@@ -45,5 +45,5 @@ def filter_m3u_blocks_from_urls(urls, channel_names, output_dir="output_blocks",
 
 if __name__ == "__main__":
     urls = sys.argv[1:]  # URLs passed from workflow
-    channel_names = ["Disney Junior", "Star Gold HD", "Star Gold 2 Romance, "Zee Marathi HD"]
+    channel_names = ["Disney Junior", "Star Gold HD", "Star Gold 2 Romance", "Zee Marathi HD"]
     filter_m3u_blocks_from_urls(urls, channel_names)
