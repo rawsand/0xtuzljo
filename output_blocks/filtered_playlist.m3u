@@ -14,7 +14,3 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdne
 #EXTHTTP:{"cookie":"__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4&xxx=%7Ccookie=__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4
 
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1757422447~acl=%2f*~data=hdntl~hmac=8d1a90c2bed1ded954e43509bdac02becf4b4fd2b0f20e4f5803f89516036609
-
