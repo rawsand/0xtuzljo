@@ -29,7 +29,7 @@ def split_into_blocks(lines):
         blocks.append("\n".join(current_block))
     return blocks
 
-def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_blocks", output_file="filtered_playlist.m3u"):
+def filter_m3u_blocks(urls, local_file, channel_names, output_dir="output_blocks", output_file="filtered_playlist.m3u"):
     all_blocks = []
 
     # Fetch from URLs
@@ -37,29 +37,20 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         print(f"Fetching playlist from URL: {url}")
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
-    # Fetch from local file (hardcoded path)
-    local_file = "8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u"   # 👈 change if needed
-    if os.path.exists(local_file):
+    # Fetch from local file
+    if local_file and os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
         all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
 
-    # Filter with include/exclude rules
+    # Filter and remove duplicates
     matched_blocks, seen_channels = [], set()
     for block in all_blocks:
         extinf_line = block.splitlines()[0]
         channel_name = extinf_line.split(",")[-1].strip()
-
-        include_match = any(name.lower() in channel_name.lower() for name in channel_names)
-        exclude_match = any(bad.lower() in channel_name.lower() for bad in exclude_channels)
-
-        if include_match and not exclude_match:
+        if any(name.lower() in channel_name.lower() for name in channel_names):
             if channel_name.lower() not in seen_channels:
                 matched_blocks.append(block)
                 seen_channels.add(channel_name.lower())
-            else:
-                print(f"Skipping duplicate: {channel_name}")
-        elif exclude_match:
-            print(f"Excluded unwanted channel: {channel_name}")
 
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
@@ -73,12 +64,12 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     return matched_blocks
 
 if __name__ == "__main__":
-    # URLs passed as arguments
+    # URLs passed as arguments (can be 0, 1, or more)
     urls = [arg for arg in sys.argv[1:] if arg.startswith("http")]
-
-    # ✅ Channels you want
+    # Local file (if provided as an argument, e.g., local.m3u)
+    local_file = "8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u"
     channel_names = [
-        "Star Utsav Movies",
+         "Star Utsav Movies",
         "Star Gold HD",
         "Star Gold",
         "Star Gold 2",
@@ -148,29 +139,19 @@ if __name__ == "__main__":
         "Sony Max HD",
         "STAR GOLD ROMANCE b1g",
         "HINDI HITS",
-        "IN | ZOOM MUSIC HD",
-        "T Play Music",
-        "Star Gold Romance CA",
-        "SET HD",
-        "Sony MAX",
-        "Sony WAH",
-        "Sony PIX HD",
-        "NDTV Marathi",
-        "News18 Lokmat",
-        "TV9 Marathi",
-        "Abp Majha",
-        "NDTV India",
-        "NDTV 24x7",
-        "Discovery Kids 2"
+"IN | ZOOM MUSIC HD",
+"T Play Music",
+"Star Gold Romance CA",
+"SET HD",
+"Sony MAX",
+"Sony WAH",
+"Sony PIX HD",
+"NDTV Marathi",
+"News18 Lokmat",
+"TV9 Marathi",
+"Abp Majha",
+"NDTV India",
+"NDTV 24x7"
     ]
 
-    # ❌ Channels you don’t want (blacklist)
-    exclude_channels = [
-        "Zee Cinemalu",    # Example
-        "Zee Cinemalu HD",    # Example
-        "MTV Beats HD",           
-        "MTV Beats SD",
-        "Zee News Uttar Pradesh Uttrakhand"
-    ]
-
-    filter_m3u_blocks(urls, channel_names, exclude_channels)
+    filter_m3u_blocks(urls, local_file, channel_names)
