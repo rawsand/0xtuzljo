@@ -71,7 +71,9 @@ if __name__ == "__main__":
     channel_names = [
         "Disney Junior",
         "Star Gold HD",
-        "Star Gold 2 Romance"
-    ]
+        "Star Gold 2 Romance",
+        "Sony Max 2",
+        "Sony Max HD    
+        ]
 
     filter_m3u_blocks(urls, local_file, channel_names)
