@@ -2,6 +2,9 @@ name: Filter and Merge M3U Playlists - Working
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '40 */11 * * *'
+    - cron: '40 */12 * * *'
 
 jobs:
   build:
@@ -24,8 +27,7 @@ jobs:
           URL1: ${{ secrets.PLAYLIST_URL1 }}
           URL2: ${{ secrets.PLAYLIST_URL2 }}
         run: |
-          python Working.py "$URL1" "$URL2"
-          #python filter_playlist_with_others.py "$URL1" "$URL2"
+          python Working.py "$URL1" "$URL2"          
 
       - name: Commit filtered playlist
         run: |
