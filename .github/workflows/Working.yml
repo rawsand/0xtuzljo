@@ -1,4 +1,4 @@
-name: Filter and Merge M3U Playlists
+name: Filter and Merge M3U Playlists - Working
 
 on:
   workflow_dispatch:
