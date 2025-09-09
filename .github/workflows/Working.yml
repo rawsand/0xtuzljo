@@ -1,0 +1,36 @@
+name: Filter and Merge M3U Playlists
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run playlist filter
+        env:
+          URL1: ${{ secrets.PLAYLIST_URL1 }}
+          URL2: ${{ secrets.PLAYLIST_URL2 }}
+        run: |
+          python experiment.py "$URL1" "$URL2"
+          #python filter_playlist_with_others.py "$URL1" "$URL2"
+
+      - name: Commit filtered playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output_blocks/filtered_playlist.m3u
+          git commit -m "Update filtered playlist"
+          git push
