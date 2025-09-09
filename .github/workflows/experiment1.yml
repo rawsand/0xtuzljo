@@ -1,4 +1,4 @@
-name: Filter and Merge M3U Playlists
+name: Experiment on M3U Playlists
 
 on:
   workflow_dispatch:
