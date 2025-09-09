@@ -4,13 +4,19 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4&xxx=%7Ccookie=__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4
+#EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
 
 #EXTINF:-1 tvg-id="156" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4&xxx=%7Ccookie=__hdnea__=st=1757330339~exp=1757416739~acl=/*~hmac=0ae99c0e63eed481309b2aa4280a4c77d26ce8678fc2bccc02816634bf5302e4
+#EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
