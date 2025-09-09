@@ -1,0 +1,36 @@
+name: Delete File from Main
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ required to push commits
+
+jobs:
+  delete-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete file
+        run: |
+          FILE_TO_DELETE="output_blocks/filtered_playlist.m3u"
+          if [ -f "$FILE_TO_DELETE" ]; then
+            git rm "$FILE_TO_DELETE"
+          else
+            echo "File $FILE_TO_DELETE does not exist"
+          fi
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Delete $FILE_TO_DELETE" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push origin main
