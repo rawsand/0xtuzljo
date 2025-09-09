@@ -238,6 +238,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv_18_BTS/output/index.mpd?__hdnea__
 #EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/India_Today_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
 
+#EXTINF:-1 tvg-id="554" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e921b8507a5e5cd1bb4433b3fd1f5e0a:037835bab43e7ef4a41a97c638cd9c1d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Kids_2_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
+
 #EXTINF:-1 tvg-id="560" group-title="Lifestyle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",GOOD TiMES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dab8b8981b454aeb94478996a4ce8c9:7f5a8d49d00b27573a831347e1f429a0
@@ -315,13 +322,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/9XM_BTS/output/index.mpd?__hdnea__=st=175
 #EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Majha_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
 
-#EXTINF:-1 tvg-id="753" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb7f4756501a5efabeb2208655e62c83:09ca23e80d1c04ca399666cb703021ce
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_Beats_HD_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
-
 #EXTINF:-1 tvg-id="755" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2038491f84f6547986f8ff80e696f8b2:3316fed01103f3241733629cc6b5469f
@@ -342,13 +342,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Lokshahi_News_BTS/output/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
-
-#EXTINF:-1 tvg-id="1400" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV Beats SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=950d9e70fc5c5ca6a1bccf3dabac44d9:fc8ddfbb989559cf0d65d5bc4d4601bf
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_Beats_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba&xxx=%7Ccookie=__hdnea__=st=1757382785~exp=1757469185~acl=/*~hmac=25c2a95e8857d29387918be057cdd557457eedd1e7b74cc81d1c0a0307bd46ba
 
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -421,10 +414,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
 
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
-
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
@@ -453,10 +442,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
 
-#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",Zee News Uttar Pradesh Uttrakhand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
-
 #EXTINF:-1 tvg-id="0-9-176" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
@@ -469,54 +454,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
 
-#EXTINF:-1 tvg-id="0-9-9z5383488" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
-
 #EXTINF:-1 tvg-id="0-9-9z5383489" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1757469423~acl=%2f*~data=hdntl~hmac=c3d91f5ccb04335e334fe3ae3afa8d1c5b6155a51ff8e838972e33d247592075
-
-#EXTINF:-1 tvg-id="227" tvg-logo="" group-title="Jiostar",STAR GOLD ROMANCE b1g
-http://b1g.ooo/live/Regina/Regina123/865922.ts
-##Music
-
-#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="Music", HINDI HITS
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music",IN | ZOOM MUSIC HD
-http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/246679
-
-#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music", T Play Music
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-##Star Network
-
-#EXTINF:-1 group-title="Jiostar",Star Gold Romance CA
-https://vishwas-oppu.vercel.app/play.m3u8?id=66186
-##SONY NETWORK
-
-#EXTINF:-1 group-title="Entertainment",SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony WAH
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-##News
-
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News", NDTV Marathi
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News", TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 
