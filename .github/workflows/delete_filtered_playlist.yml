@@ -2,6 +2,9 @@ name: Delete File from Main
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 */11 * * *'
+    - cron: '30 */12 * * *'
 
 permissions:
   contents: write   # ✅ required to push commits
