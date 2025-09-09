@@ -38,7 +38,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
     # Fetch from local file (hardcoded path)
-    local_file = "local.m3u"   # 👈 change if needed
+    local_file = "8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u"   # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
         all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
