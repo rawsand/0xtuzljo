@@ -1,4 +1,4 @@
-hiimport os
+import os
 import sys
 import requests
 
