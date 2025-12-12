@@ -38,7 +38,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
     # Fetch from local file (hardcoded path)
-    local_file = "8b249zhj3vg65us_jiotvbe1_st_so_edit.m3u"   # 👈 change if needed
+    local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
         all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
@@ -88,11 +88,11 @@ if __name__ == "__main__":
 
     # ❌ Channels you don’t want (blacklist)
     exclude_channels = [
-        "Zee Cinemalu",    # Example
-        "Zee Cinemalu HD",    # Example
-        "MTV Beats HD",           
-        "MTV Beats SD",
-        "Zee News Uttar Pradesh Uttrakhand",
+        "STAR PLUS HD USA",    # Example
+        "STAR PLUS USA",    # Example
+        "STAR PRAVAH MOVIES",           
+        "STAR PRAVAH USA",
+        "ZEE MARATHI USA",
         "Star Gold Romance",
         "Star Gold Thrills"
     ]
