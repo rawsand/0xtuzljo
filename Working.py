@@ -92,7 +92,7 @@ if __name__ == "__main__":
         "STAR PLUS HD USA",    # Example
         "STAR PLUS USA",    # Example
         "STAR PRAVAH MOVIES",           
-        "STAR PRAVAH USA",
+        "STAR PRAVAH US",
         "ZEE MARATHI USA",
         "Star Gold Romance",
         "Star Gold Thrills"
