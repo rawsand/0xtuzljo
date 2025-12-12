@@ -31,6 +31,7 @@ def split_into_blocks(lines):
 
 def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_blocks", output_file="filtered_playlist.m3u"):
     all_blocks = []
+    blocks_from_Github = []
 
     # Fetch from URLs
     for url in urls:
@@ -41,7 +42,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
-        all_blocks.append(fetch_m3u_blocks_from_file(local_file))
+        blocks_from_Github.append(fetch_m3u_blocks_from_file(local_file))
 
     # Filter with include/exclude rules
     matched_blocks, seen_channels = [], set()
@@ -66,6 +67,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     output_path = os.path.join(output_dir, output_file)
     with open(output_path, "w", encoding="utf-8") as out:
         out.write("#EXTM3U\n\n")
+        out.write(blocks_from_Github)
         for block in matched_blocks:
             out.write(block + "\n\n")
 
