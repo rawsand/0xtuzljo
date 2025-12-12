@@ -100,7 +100,7 @@ if __name__ == "__main__":
         "Set HD",
         "Sony HD",
         "Shemaroo Marathibana",
-        "Shemaroo Marathibani",
+        "Shemaroo Marathabani",
         "Sony TV HD"
     ]
 
