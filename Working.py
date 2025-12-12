@@ -3,8 +3,6 @@ import sys
 import requests
 import re
 
-# (Keep fetch_m3u_blocks_from_url, fetch_m3u_blocks_from_file, and split_into_blocks functions the same)
-
 def fetch_m3u_blocks_from_url(url):
     """Fetch playlist from URL and split into blocks (#EXTINF ...)."""
     response = requests.get(url)
@@ -54,7 +52,6 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     link_pattern = re.compile(r'^(http|https|ftp)://.*', re.IGNORECASE)
 
     matched_blocks = []
-    seen_channels = set()
     seen_links = set()
 
     for block in all_blocks:
@@ -81,9 +78,9 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
                 if stream_url not in seen_links:
                     # Apply find and replace (group-title) modification
                     modified_block = re.sub(group_title_pattern, group_title_replacement, block)
-                    matched_blocks.append("\n\n" + modified_block) # Add extra newlines for spacing
+                    # We append the block as is (without extra \n\n)
+                    matched_blocks.append(modified_block)
                     seen_links.add(stream_url)
-                    # seen_channels is now less important as we are tracking by unique URL
                 else:
                     print(f"Skipping duplicate URL for channel: {channel_name}")
             elif exclude_match:
@@ -94,13 +91,11 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     output_path = os.path.join(output_dir, output_file)
     with open(output_path, "w", encoding="utf-8") as out:
         out.write("#EXTM3U\n\n")
-        # Write the list of unique blocks joined together
-        out.write("".join(matched_blocks))
+        # Join all blocks with a single newline separator for proper formatting
+        out.write("\n\n".join(matched_blocks))
 
     print(f"Saved {len(matched_blocks)} unique matched blocks into: {output_path}")
     return matched_blocks
-
-# (Keep __main__ block the same)
 
 if __name__ == "__main__":
     # URLs passed as arguments
@@ -115,7 +110,7 @@ if __name__ == "__main__":
         "Sony HD",
         "Shemaroo Marathibana",
         "Sony TV HD"
-        ]
+    ]
 
     # ❌ Channels you don’t want (blacklist)
     exclude_channels = [
