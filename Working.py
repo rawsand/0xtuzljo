@@ -12,7 +12,7 @@ def fetch_m3u_blocks_from_url(url):
 def fetch_m3u_blocks_from_file(file_path):
     """Read playlist from local file and split into blocks (#EXTINF ...)."""
     with open(file_path, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f.readlines() if line.strip()]
+        lines = f.readlines() #[line.strip() for line in f.readlines() if line.strip()]
     return lines
 
 def split_into_blocks(lines):
