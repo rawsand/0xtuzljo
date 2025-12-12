@@ -7,19 +7,14 @@ def fetch_m3u_blocks_from_url(url):
     """Fetch playlist from URL and split into blocks (#EXTINF ...)."""
     response = requests.get(url)
     response.raise_for_status()
+    # Lines are stripped of leading/trailing whitespace and empty lines removed
     lines = [line.strip() for line in response.text.splitlines() if line.strip()]
     return split_into_blocks(lines)
 
-def fetch_m3u_blocks_from_file(file_path):
-    """Read playlist from local file and split into blocks (#EXTINF ...)."""
-    with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.read()
-    # Return blocks here, not raw text, so we can process them consistently
-    raw_lines = [line.strip() for line in lines.splitlines() if line.strip()]
-    return split_into_blocks(raw_lines)
+# The function fetch_m3u_blocks_from_file has been removed.
 
 def split_into_blocks(lines):
-    """Split M3U content into blocks starting with #EXTINF."""
+    """Split M3U content (list of lines) into blocks starting with #EXTINF."""
     blocks = []
     current_block = []
     for line in lines:
@@ -40,11 +35,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         print(f"Fetching playlist from URL: {url}")
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
-    # Fetch from local file (hardcoded path) and add to all_blocks
-    local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
-    if os.path.exists(local_file):
-        print(f"Reading playlist from local file: {local_file}")
-        all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
+    # Code for fetching from local file (8ive.m3u) has been removed.
 
     # Define patterns for filtering and modifying
     group_title_pattern = r'group-title=".*?"'
@@ -78,7 +69,6 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
                 if stream_url not in seen_links:
                     # Apply find and replace (group-title) modification
                     modified_block = re.sub(group_title_pattern, group_title_replacement, block)
-                    # We append the block as is (without extra \n\n)
                     matched_blocks.append(modified_block)
                     seen_links.add(stream_url)
                 else:
@@ -98,7 +88,8 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     return matched_blocks
 
 if __name__ == "__main__":
-    # URLs passed as arguments
+    # URLs passed as arguments via command line (e.g., python script.py http://url1.m3u http://url2.m3u)
+    # If no URLs are passed via command line, you must hardcode them below for the script to run.
     urls = [arg for arg in sys.argv[1:] if arg.startswith("http")]
 
     # ✅ Channels you want
@@ -122,5 +113,9 @@ if __name__ == "__main__":
         "SONY TV HD | UK",
         "Star Gold Thrills"
     ]
+    
+    if not urls:
+        print("No URLs provided via command line arguments. Please provide URLs to fetch.")
+        sys.exit(1)
 
     filter_m3u_blocks(urls, channel_names, exclude_channels)
