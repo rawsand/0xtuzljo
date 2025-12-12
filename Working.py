@@ -67,7 +67,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     output_path = os.path.join(output_dir, output_file)
     with open(output_path, "w", encoding="utf-8") as out:
         out.write("#EXTM3U\n\n")
-        out.write("\n\n".join(blocks_from_Github))
+        out.write(blocks_from_Github)
         for block in matched_blocks:
             out.write(block + "\n\n")
 
