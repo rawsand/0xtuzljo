@@ -1,6 +1,7 @@
 import os
 import sys
 import requests
+import re
 
 def fetch_m3u_blocks_from_url(url):
     """Fetch playlist from URL and split into blocks (#EXTINF ...)."""
@@ -62,6 +63,13 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         elif exclude_match:
             print(f"Excluded unwanted channel: {channel_name}")
 
+    # Find and replace text
+    pattern = r'group-title=".*?"'
+    replacement = r'group-title="General"'
+    blocks_from_Github = re.sub(pattern, replacement, blocks_from_Github)
+    
+    return updated_text
+    
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
