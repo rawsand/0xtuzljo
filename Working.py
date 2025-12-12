@@ -70,7 +70,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     for block in matched_blocks:
             blocks_from_Github = blocks_from_Github + re.sub(pattern, replacement, block) + "\n\n"
 
-    # Use a set for highly efficient tracking of seen links
+# Use a set for highly efficient tracking of seen links
 seen_links = set()
 unique_blocks = []
 
@@ -105,10 +105,7 @@ while i < len(lines):
 			i += 1
 	
 	i += 1
-
-
-
-	   
+	
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
