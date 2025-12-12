@@ -81,7 +81,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
                 if stream_url not in seen_links:
                     # Apply find and replace (group-title) modification
                     modified_block = re.sub(group_title_pattern, group_title_replacement, block)
-                    matched_blocks.append(modified_block") # Add extra newlines for spacing
+                    matched_blocks.append("\n\n" + modified_block") # Add extra newlines for spacing
                     seen_links.add(stream_url)
                     # seen_channels is now less important as we are tracking by unique URL
                 else:
