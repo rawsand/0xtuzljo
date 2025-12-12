@@ -1,0 +1,349 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="TLL MUSIC",Mmtvhd
+rtmp://103.78.164.62/static/MMTVHD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSvLPXn/MMTV-CLASSIC.png" group-title="TLL LOCAL HD",MMTV CLASSIC
+rtmp://cloudstream4k.com:1935/mmclassic/bsk
+
+#EXTINF:-1 tvg-logo="https://tamilvod.com/upload/images/MTV_Music_Logo.jpg" group-title="Tamil International",Tamil MTV
+http://stream.vstartv.org/p/3900/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="475017" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71691.png" group-title="MALAYALAM | TV",ZEE NEWS KERALAM FHD
+http://19n0v-rkdyiptv.wasmer.app/play.php?id=475017
+
+#EXTINF:-1 tvg-id="3342" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | RELIGIOUS",EPIC
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3342
+
+#EXTINF:-1 tvg-id="3235" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3235.png" group-title="HINDI | NEWS",AAJ TAK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3235
+
+#EXTINF:-1 tvg-id="3236" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3236.png" group-title="HINDI | NEWS",AAJ TAK..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3236
+
+#EXTINF:-1 tvg-id="480427" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3263.png" group-title="HINDI | NEWS",INDIA TV
+http://19nov-rkdyiptv.wasmer.app/play.php?id=480427
+
+#EXTINF:-1 tvg-id="3255" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3255.jpg" group-title="HINDI | NEWS",INDIA TV.
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3255
+
+#EXTINF:-1 tvg-id="3307" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3307.png" group-title="HINDI | NEWS",ZEE NEWS
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3307
+
+#EXTINF:-1 tvg-id="3267" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3267.jpg" group-title="HINDI | NEWS",ZEE NEWS.
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3267
+
+#EXTINF:-1 tvg-id="3265" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | NEWS",INDIA TODAY
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3265
+
+#EXTINF:-1 tvg-id="3287" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3287.png" group-title="HINDI | NEWS",INDIA TODAY.
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3287
+
+#EXTINF:-1 tvg-id="3280" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3280.png" group-title="HINDI | NEWS",NEWS 18 INDIA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3280
+
+#EXTINF:-1 tvg-id="3297" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3297.png" group-title="HINDI | NEWS",NEWS 18 INDIA.
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3297
+
+#EXTINF:-1 tvg-id="3273" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3273.png" group-title="HINDI | NEWS",NDTV INDIA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3273
+
+#EXTINF:-1 tvg-id="3274" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | NEWS",NDTV 24X7
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3274
+
+#EXTINF:-1 tvg-id="3308" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | NEWS",ZEE BUSINESS
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3308
+
+#EXTINF:-1 tvg-id="3250" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3250.jpg" group-title="HINDI | NEWS",ET NOW
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3250
+
+#EXTINF:-1 tvg-id="3275" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3275.png" group-title="HINDI | NEWS",NDTV GOOD TIMES
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3275
+
+#EXTINF:-1 tvg-id="3276" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3276.png" group-title="HINDI | NEWS",NDTV PROFIT
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3276
+
+#EXTINF:-1 tvg-id="3310" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3310.png" group-title="HINDI | NEWS",ZEE NEWS BIHAR
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3310
+
+#EXTINF:-1 tvg-id="3311" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3311.png" group-title="HINDI | NEWS",ZEE NEWS MP & CHG
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3311
+
+#EXTINF:-1 tvg-id="3312" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3312.png" group-title="HINDI | NEWS",ZEE NEWS RAJASTHAN
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3312
+
+#EXTINF:-1 tvg-id="3108" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3108.png" group-title="HINDI | TV",SONY WAH
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3108
+
+#EXTINF:-1 tvg-id="3086" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3086.png" group-title="HINDI | TV",AAPKA COLORS HD USA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3086
+
+#EXTINF:-1 tvg-id="3089" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3089.png" group-title="HINDI | TV",COLORS HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3089
+
+#EXTINF:-1 tvg-id="3094" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3094.png" group-title="HINDI | TV",ZEE TV HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3094
+
+#EXTINF:-1 tvg-id="474203" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70882.png" group-title="HINDI | TV",ZEE ANMOL CINEMA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=474203
+
+#EXTINF:-1 tvg-id="3110" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3110.png" group-title="HINDI | TV",9X JALWA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3110
+
+#EXTINF:-1 tvg-id="3111" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3111.png" group-title="HINDI | TV",9XM
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3111
+
+#EXTINF:-1 tvg-id="3113" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3113.png" group-title="HINDI | TV",MTV INDIA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3113
+
+#EXTINF:-1 tvg-id="3131" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3131.png" group-title="HINDI | TV",MUSIC INDIA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3131
+
+#EXTINF:-1 tvg-id="3128" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3128.png" group-title="HINDI | TV",MTV HD | IN
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3128
+
+#EXTINF:-1 tvg-id="3117" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3117.png" group-title="HINDI | TV",ZING | IN
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3117
+
+#EXTINF:-1 tvg-id="3135" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3135.png" group-title="HINDI | TV",ZING
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3135
+
+#EXTINF:-1 tvg-id="3160" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | TV",ANIMAL PLANET HINDI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3160
+
+#EXTINF:-1 tvg-id="3163" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3163.png" group-title="HINDI | TV",FOOD FOOD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3163
+
+#EXTINF:-1 tvg-id="3170" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3170.png" group-title="HINDI | TV",EPIC HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3170
+
+#EXTINF:-1 tvg-id="474198" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/70877.png" group-title="HINDI | TV",STAR MOVIES
+http://19nov-rkdyiptv.wasmer.app/play.php?id=474198
+
+#EXTINF:-1 tvg-id="474199" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | TV",STAR MOVIES SELECT
+http://19nov-rkdyiptv.wasmer.app/play.php?id=474199
+
+#EXTINF:-1 tvg-id="476858" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | TV",ZING TV US
+http://19nov-rkdyiptv.wasmer.app/play.php?id=476858
+
+#EXTINF:-1 tvg-id="480431" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/76794.png" group-title="HINDI | TV",CNBC TV 18 PRIME
+http://19nov-rkdyiptv.wasmer.app/play.php?id=480431
+
+#EXTINF:-1 tvg-id="3172" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3172.png" group-title="HINDI | CINEMA",STAR GOLD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3172
+
+#EXTINF:-1 tvg-id="3173" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3173.png" group-title="HINDI | CINEMA",STAR GOLD BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3173
+
+#EXTINF:-1 tvg-id="3174" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3174.png" group-title="HINDI | CINEMA",STAR GOLD 2
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3174
+
+#EXTINF:-1 tvg-id="3175" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3175.png" group-title="HINDI | CINEMA",STAR GOLD 2 BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3175
+
+#EXTINF:-1 tvg-id="3176" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",STAR GOLD SELECT
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3176
+
+#EXTINF:-1 tvg-id="3177" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",STAR GOLD SELECT BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3177
+
+#EXTINF:-1 tvg-id="476855" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",STAR GOLD USA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=476855
+
+#EXTINF:-1 tvg-id="3178" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3178.png" group-title="HINDI | CINEMA",SONY MAX USA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3178
+
+#EXTINF:-1 tvg-id="3179" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3179.png" group-title="HINDI | CINEMA",SONY MAX UK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3179
+
+#EXTINF:-1 tvg-id="3180" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3180.png" group-title="HINDI | CINEMA",SONY MAX
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3180
+
+#EXTINF:-1 tvg-id="3181" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3181.png" group-title="HINDI | CINEMA",SONY MAX BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3181
+
+#EXTINF:-1 tvg-id="3182" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3182.png" group-title="HINDI | CINEMA",SONY MAX 2
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3182
+
+#EXTINF:-1 tvg-id="3183" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3183.png" group-title="HINDI | CINEMA",SONY MAX 2 BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3183
+
+#EXTINF:-1 tvg-id="3184" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE CINEMA USA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3184
+
+#EXTINF:-1 tvg-id="3185" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE CINEMA UK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3185
+
+#EXTINF:-1 tvg-id="3186" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE CINEMA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3186
+
+#EXTINF:-1 tvg-id="3187" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE CINEMA BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3187
+
+#EXTINF:-1 tvg-id="3188" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE ACTION
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3188
+
+#EXTINF:-1 tvg-id="3189" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE CLASSIC
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3189
+
+#EXTINF:-1 tvg-id="3190" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",ZEE BOLLYWOOD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3190
+
+#EXTINF:-1 tvg-id="3208" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3208.png" group-title="HINDI | CINEMA",STAR UTSAV MOVIES
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3208
+
+#EXTINF:-1 tvg-id="3219" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3219.jpg" group-title="HINDI | CINEMA",COLORS CINEPLEX UK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3219
+
+#EXTINF:-1 tvg-id="3220" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3220.jpg" group-title="HINDI | CINEMA",COLORS CINEPLEX
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3220
+
+#EXTINF:-1 tvg-id="476856" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="HINDI | CINEMA",COLORS CINEPLEX USA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=476856
+
+#EXTINF:-1 tvg-id="3127" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3127.png" group-title="HINDI | MUSIC",MTV PLUS
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3127
+
+#EXTINF:-1 tvg-id="5991" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5991.jpg" group-title="MARATHI | TV",COLORS MARATHI HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=5991
+
+#EXTINF:-1 tvg-id="5999" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=5999
+
+#EXTINF:-1 tvg-id="6001" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6001.jpg" group-title="MARATHI | TV",ZEE TALKIES
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6001
+
+#EXTINF:-1 tvg-id="6002" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6002.jpg" group-title="MARATHI | TV",ZEE TALKIES BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6002
+
+#EXTINF:-1 tvg-id="6003" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6003.jpg" group-title="MARATHI | TV",ZEE TALKIES US
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6003
+
+#EXTINF:-1 tvg-id="6004" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6004.jpg" group-title="MARATHI | TV",ZEE YUVA MARATHI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6004
+
+#EXTINF:-1 tvg-id="6005" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6005.jpg" group-title="MARATHI | TV",ZEE 24 TAAS
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6005
+
+#EXTINF:-1 tvg-id="6007" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6007.png" group-title="MARATHI | TV",ABP MAJHA
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6007
+
+#EXTINF:-1 tvg-id="6017" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6017.png" group-title="MARATHI | TV",TV9 MARATHI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6017
+
+#EXTINF:-1 tvg-id="1133" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1133.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 4K ENGLISH
+http://19nov-rkdyiptv.wasmer.app/play.php?id=1133
+
+#EXTINF:-1 tvg-id="472294" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 FHD ENGLISH 4K..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=472294
+
+#EXTINF:-1 tvg-id="472278" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 FHD HINDI..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=472278
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1134.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 4K HINDI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=1134
+
+#EXTINF:-1 tvg-id="472295" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 FHD HINDI 4K..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=472295
+
+#EXTINF:-1 tvg-id="1136" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1136.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 TAMIL HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=1136
+
+#EXTINF:-1 tvg-id="472279" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 TAMIL HD..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=472279
+
+#EXTINF:-1 tvg-id="1135" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/1135.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 KANNADA HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=1135
+
+#EXTINF:-1 tvg-id="472296" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="SPORTS | CRICKET",STAR SPORTS 1 TAMIL HD 4K..
+http://19nov-rkdyiptv.wasmer.app/play.php?id=472296
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Colors Cineplex Bollywood - Rs 0.10
+https://m3umergers.xyz/artl/artl.ts?id=a01o
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Colors Cineplex HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a04i
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Colors HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a041
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",MTV HD - Rs 2.00
+https://m3umergers.xyz/artl/artl.ts?id=a025
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",SET HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a03t
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",SONY MAX 2 - Rs 1.00
+https://m3umergers.xyz/artl/artl.ts?id=a02l
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",SONY MAX HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a04f
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",SONY PIX HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a027
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",STAR GOLD HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a02j
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",STAR Movies HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a029
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",STAR Movies Select HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a028
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Gold 2 - Rs 3.00
+https://m3umergers.xyz/artl/artl.ts?id=a02k
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Gold 2 HD - Rs 5.00
+https://m3umergers.xyz/artl/artl.ts?id=a01z
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Sports 1 - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a03b
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Sports 1 HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a040
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Sports 1 Hindi - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a02m
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a04e
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Travelxp HD - Rs 9.00
+https://m3umergers.xyz/artl/artl.ts?id=a01x
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Zee Bollywood - Rs 3.00
+https://m3umergers.xyz/artl/artl.ts?id=a02r
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Zee Classic - Rs 0.10
+https://m3umergers.xyz/artl/artl.ts?id=a054
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="-",Zee TV HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a04r
+
+#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="Music", HINDI HITS
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music",IN | ZOOM MUSIC HD
+http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/246679
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZOOM MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zoom_tv_in.png" group-title="Music", T Play Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+##Star Network
+
+#EXTINF:-1 group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+##News
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News", NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",  News18 Lokmat
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
+
