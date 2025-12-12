@@ -53,11 +53,11 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         exclude_match = any(bad.lower() in channel_name.lower() for bad in exclude_channels)
 
         if include_match and not exclude_match:
-            if channel_name.lower() not in seen_channels:
+            #if channel_name.lower() not in seen_channels:
                 matched_blocks.append(block)
                 seen_channels.add(channel_name.lower())
-            else:
-                print(f"Skipping duplicate: {channel_name}")
+            #else:
+                #print(f"Skipping duplicate: {channel_name}")
         elif exclude_match:
             print(f"Excluded unwanted channel: {channel_name}")
 
@@ -83,7 +83,8 @@ if __name__ == "__main__":
         "Star Pravah",
         "Set HD",
         "Sony HD",
-        "Shemaroo Marathibana"
+        "Shemaroo Marathibana",
+        "Sony TV HD"
         ]
 
     # ❌ Channels you don’t want (blacklist)
