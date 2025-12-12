@@ -35,6 +35,7 @@ def split_into_blocks(lines):
 
 def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_blocks", output_file="filtered_playlist.m3u"):
     all_blocks = []
+    blocks_from_Github = ""
 
     # Fetch from URLs
     for url in urls:
