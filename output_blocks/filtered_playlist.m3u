@@ -24,6 +24,9 @@ http://19nov-rkdyiptv.wasmer.app/play.php?id=5999
 #EXTINF:-1 tvg-id="6000" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6000.jpg" group-title="General",ZEE MARATHI BK
 http://19nov-rkdyiptv.wasmer.app/play.php?id=6000
 
+#EXTINF:-1 tvg-id="477925" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="General",SHEMAROO MARATHABANI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=477925
+
 #EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="General",SET HD - Rs 19.00
 https://m3umergers.xyz/artl/artl.ts?id=a03t
 
