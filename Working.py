@@ -11,6 +11,12 @@ def fetch_m3u_blocks_from_url(url):
     lines = [line.strip() for line in response.text.splitlines() if line.strip()]
     return split_into_blocks(lines)
 
+def fetch_m3u_blocks_from_file(file_path):
+    """Read playlist from local file and split into blocks (#EXTINF ...)."""
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = f.read()
+    return lines
+
 # The function fetch_m3u_blocks_from_file has been removed.
 
 def split_into_blocks(lines):
@@ -34,6 +40,12 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     for url in urls:
         print(f"Fetching playlist from URL: {url}")
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
+
+    # Fetch from local file (hardcoded path)
+    local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
+    if os.path.exists(local_file):
+        print(f"Reading playlist from local file: {local_file}")
+        blocks_from_Github = (fetch_m3u_blocks_from_file(local_file))
 
     # Code for fetching from local file (8ive.m3u) has been removed.
 
