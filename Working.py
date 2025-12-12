@@ -67,9 +67,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     pattern = r'group-title=".*?"'
     replacement = r'group-title="General"'
     blocks_from_Github = re.sub(pattern, replacement, blocks_from_Github)
-    
-    return updated_text
-    
+           
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
