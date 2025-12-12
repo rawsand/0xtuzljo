@@ -39,7 +39,7 @@ def filter_m3u_blocks(
     channel_names,
     exclude_channels,
     output_dir="output_blocks",
-    output_file="fiaylist.m3u",
+    output_file="filtered_playlist.m3u",
 ):
     all_blocks = []
     blocks_from_Github = ""
@@ -50,7 +50,7 @@ def filter_m3u_blocks(
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
     # Fetch from local file (hardcoded path)
-    local_file = "8ive.m3u"  # 👈 change if needed
+    local_file = "8b249zhj3vg65us_st_so_zfive.m3u"  # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
         # Note: fetch_m3u_blocks_from_file currently returns raw text, not a list of blocks
