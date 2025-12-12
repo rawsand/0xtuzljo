@@ -13,7 +13,7 @@ def fetch_m3u_blocks_from_file(file_path):
     """Read playlist from local file and split into blocks (#EXTINF ...)."""
     with open(file_path, "r", encoding="utf-8") as f:
         lines = f.readlines() #[line.strip() for line in f.readlines() if line.strip()]
-    return blocks.append("\n".join(lines))
+    return lines
 
 def split_into_blocks(lines):
     """Split M3U content into blocks starting with #EXTINF."""
@@ -41,7 +41,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
-        all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
+        all_blocks.append(fetch_m3u_blocks_from_file(local_file))
 
     # Filter with include/exclude rules
     matched_blocks, seen_channels = [], set()
