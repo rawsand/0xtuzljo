@@ -69,42 +69,6 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     blocks_from_Github = re.sub(pattern, replacement, blocks_from_Github)
     for block in matched_blocks:
             blocks_from_Github = blocks_from_Github + re.sub(pattern, replacement, block) + "\n\n"
-
-# Use a set for highly efficient tracking of seen links
-seen_links = set()
-unique_blocks = []
-
-# Regex pattern to capture the URL/link on the line following #EXTINF
-# This pattern assumes the URL is on its own line and is a URL (starts with http/https)
-link_pattern = re.compile(r'^(http|https|ftp)://.*', re.IGNORECASE)
-
-while i < len(lines):
-	current_line = lines[i].strip()
-	
-	# We only care about lines starting with #EXTINF (the metadata line)
-	if current_line.startswith('#EXTINF'):
-		# The link should be on the *next* line
-		if i + 1 < len(lines):
-			next_line = lines[i+1].strip()
-			
-			# Check if the next line matches our link pattern
-			if link_pattern.match(next_line):
-				potential_link = next_line
-				
-				if potential_link not in seen_links:
-					# Link is unique! Add it to our set and store the block
-					seen_links.add(potential_link)
-					# Store the full block (metadata line + link line)
-					unique_blocks.append(f"{current_line}\n{potential_link}\n")
-				else:
-					# Link is a duplicate. Ignore this block.
-					print(f"Ignoring duplicate link: {potential_link}")
-			
-			# In either case (unique or duplicate), we must skip the link line 
-			# in the main loop to avoid processing it as a metadata line later.
-			i += 1
-	
-	i += 1
 	
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
