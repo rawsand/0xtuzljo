@@ -67,15 +67,16 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
     pattern = r'group-title=".*?"'
     replacement = r'group-title="General"'
     blocks_from_Github = re.sub(pattern, replacement, blocks_from_Github)
+    for block in matched_blocks:
+            blocks_from_Github = blocks_from_Github + re.sub(pattern, replacement, block) + "\n\n")
+
            
     # Ensure output folder exists
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
     with open(output_path, "w", encoding="utf-8") as out:
         out.write("#EXTM3U\n\n")
-        out.write(blocks_from_Github)
-        for block in matched_blocks:
-            out.write(re.sub(pattern, replacement, block) + "\n\n")
+        out.write(blocks_from_Github)        
 
     print(f"Saved {len(matched_blocks)} unique matched blocks into: {output_path}")
     return matched_blocks
@@ -102,7 +103,7 @@ if __name__ == "__main__":
         "STAR PRAVAH MOVIES",           
         "STAR PRAVAH US",
         "ZEE MARATHI USA",
-        "Star Gold Romance",
+        "SONY TV HD | UK",
         "Star Gold Thrills"
     ]
 
