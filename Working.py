@@ -34,7 +34,7 @@ def split_into_blocks(lines):
         blocks.append("\n".join(current_block))
     return blocks
 
-def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_blocks", output_file="fiaylist.m3u"):
+def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_blocks", output_file="filtered_playlist.m3u"):
     all_blocks = []
 
     # Fetch from URLs
@@ -43,7 +43,7 @@ def filter_m3u_blocks(urls, channel_names, exclude_channels, output_dir="output_
         all_blocks.extend(fetch_m3u_blocks_from_url(url))
 
     # Fetch from local file (hardcoded path) and add to all_blocks
-    local_file = "8ive.m3u"   # 👈 change if needed
+    local_file = "8b249zhj3vg65us_st_so_zfive.m3u"   # 👈 change if needed
     if os.path.exists(local_file):
         print(f"Reading playlist from local file: {local_file}")
         all_blocks.extend(fetch_m3u_blocks_from_file(local_file))
@@ -108,13 +108,24 @@ if __name__ == "__main__":
 
     # ✅ Channels you want
     channel_names = [
-        "ZHD",
-        "ar Ps HD" # Added your example channel name here
+        "Zee Marathi",
+        "Star Plus",
+        "Star Pravah",
+        "Set HD",
+        "Sony HD",
+        "Shemaroo Marathibana",
+        "Sony TV HD"
         ]
 
     # ❌ Channels you don’t want (blacklist)
     exclude_channels = [
-        "Thrills"
+        "STAR PLUS HD USA",    # Example
+        "STAR PLUS USA",    # Example
+        "STAR PRAVAH MOVIES",           
+        "STAR PRAVAH US",
+        "ZEE MARATHI USA",
+        "SONY TV HD | UK",
+        "Star Gold Thrills"
     ]
 
     filter_m3u_blocks(urls, channel_names, exclude_channels)
