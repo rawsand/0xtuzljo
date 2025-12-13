@@ -115,7 +115,12 @@ if __name__ == "__main__":
         "Sony HD",
         "Shemaroo Marathibana",
         "Shemaroo Marathabani",
-        "Sony TV HD"
+        "Sony TV HD",
+        "StarPlus HD (1080p)",
+        "Zee Marathi (1080p)",
+        "Star Pravah HD (1080p)",
+        "Sony Entertainment Television (1080p)",
+        "Shemaroo Marathi bana (720p)"
     ]
 
     # ❌ Channels you don’t want (blacklist)
