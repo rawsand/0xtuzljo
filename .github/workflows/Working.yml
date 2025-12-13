@@ -26,6 +26,7 @@ jobs:
         env:
           URL1: ${{ secrets.PLAYLIST_URL1 }}
           URL2: ${{ secrets.PLAYLIST_URL2 }}
+          URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
           python Working.py "$URL1" "$URL2"          
 
