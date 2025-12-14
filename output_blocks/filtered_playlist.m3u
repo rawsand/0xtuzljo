@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="3070" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3070.png" group-title="General",STAR PLUS HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3070
+
+#EXTINF:-1 tvg-id="3071" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3071.png" group-title="General",STAR PLUS BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3071
+
+#EXTINF:-1 tvg-id="3080" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3080.png" group-title="General",SONY TV HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=3080
+
+#EXTINF:-1 tvg-id="474200" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="General",STAR PRAVAH
+http://19nov-rkdyiptv.wasmer.app/play.php?id=474200
+
+#EXTINF:-1 tvg-id="5996" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5996.png" group-title="General",STAR PRAVAH HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=5996
+
+#EXTINF:-1 tvg-id="5997" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5997.png" group-title="General",STAR PRAVAH BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=5997
+
+#EXTINF:-1 tvg-id="5999" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="General",ZEE MARATHI HD
+http://19nov-rkdyiptv.wasmer.app/play.php?id=5999
+
+#EXTINF:-1 tvg-id="6000" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6000.jpg" group-title="General",ZEE MARATHI BK
+http://19nov-rkdyiptv.wasmer.app/play.php?id=6000
+
+#EXTINF:-1 tvg-id="477925" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="General",SHEMAROO MARATHABANI
+http://19nov-rkdyiptv.wasmer.app/play.php?id=477925
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="General",SET HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a03t
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="General",STAR PLUS - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a03o
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="General",STAR Plus HD - Rs 22.00
+https://m3umergers.xyz/artl/artl.ts?id=a03z
+
+#EXTINF:-1 tvg-logo="https://m3umergers.xyz/channel-logos.jpg" group-title="General",Star Pravah HD - Rs 19.00
+https://m3umergers.xyz/artl/artl.ts?id=a04n
+
+#EXTINF:-1 tvg-id="ZeeMarathi.in@SD" tvg-logo="https://i.imgur.com/vv9ysD3.png" group-title="General",Zee Marathi (1080p)
+http://87.255.35.150:18234
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="General",Sony Entertainment Television (1080p)
+http://87.255.35.150:18546
+
+#EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="General",Star Pravah HD (1080p)
+http://87.255.35.150:18447
+
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="General",StarPlus HD (1080p)
+http://87.255.35.150:18880
+# ---------------- ENTERTAINMENT ----------------
+
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://i.imgur.com/U63jUUq.png" group-title="General",Shemaroo Marathi Bana (720p)
+https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8#EXTINF:-1 tvg-id="sliv_291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="General",SET HD
+https://game.denver1769.fun/Jtv/oops.m3u8?id=sliv_291&token=SPA1aA|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/
+
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi HD
+https://game.denver1769.fun/Jtv/oops.m3u8?id=0-9-zeemarathi&token=VpZF1t|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1132&keys
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver1769.fun/Jtv/VpZF1t/Jtv.mpd?id=1132|User-Agent=Denver1769
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=336&keys
+#EXTINF:-1 tvg-id="336" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="Marathi",Star Pravah HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver1769.fun/Jtv/VpZF1t/Jtv.mpd?id=336|User-Agent=Denver1769
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/Jtv.php?id=1452&keys
+#EXTINF:-1 tvg-id="1452" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Marathi",Shemaroo MarathiBana
+#EXTVLCOPT:http-user-agent=Denver1769
+https://game.denver1769.fun/Jtv/VpZF1t/Jtv.mpd?id=1452|User-Agent=Denver1769
