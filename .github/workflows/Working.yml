@@ -25,10 +25,10 @@ jobs:
       - name: Run playlist filter
         env:
           URL1: ${{ secrets.PLAYLIST_URL1 }}
-          URL2: ${{ secrets.PLAYLIST_URL2 }}
+          #URL2: ${{ secrets.PLAYLIST_URL2 }}
           URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
-          python Working.py "$URL1" "$URL2" "$URL3"        
+          python Working.py "$URL1" "$URL3" #"$URL2"        
 
       - name: Commit filtered playlist
         run: |
