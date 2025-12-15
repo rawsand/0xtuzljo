@@ -23,8 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Run playlist filter
-        env:
-          #URL1: ${{ secrets.PLAYLIST_URL1 }}
+        env:          
           URL2: ${{ secrets.PLAYLIST_URL2 }}
           URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
