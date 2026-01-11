@@ -24,11 +24,11 @@ jobs:
 
       - name: Run playlist filter
         env:
-          #URL1: ${{ secrets.PLAYLIST_URL1 }}
+          URL1: "https://rkdyiptv.pages.dev/Playlist/Testing.m3u" ${{ secrets.PLAYLIST_URL1 }}
           #URL2: ${{ secrets.PLAYLIST_URL2 }}
           URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
-          python Working.py "$URL3" #"$URL1" "$URL2"        
+          python Working.py "$URL3" "$URL1" #"$URL2"        
 
       - name: Commit filtered playlist
         run: |
