@@ -120,7 +120,8 @@ if __name__ == "__main__":
         "Zee Marathi (1080p)",
         "Star Pravah HD (1080p)",
         "Sony Entertainment Television (1080p)",
-        "Shemaroo Marathi bana (720p)"
+        "Shemaroo Marathi bana (720p)",
+        "Colors HD"
     ]
 
     # ❌ Channels you don’t want (blacklist)
