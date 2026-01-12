@@ -34,6 +34,8 @@ http://global24-rkdyiptv.wasmer.app/play.php?id=8723
 http://global24-rkdyiptv.wasmer.app/play.php?id=11894
 
 #EXTINF:-1 tvg-id="11221" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11137.jpg" group-title="General",COLORS HD
-http://global24-rkdyiptv.wasmer.app/play.php?id=11221#EXTINF:-1 tvg-id="sliv_291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="General",SET HD
+http://global24-rkdyiptv.wasmer.app/play.php?id=11221
+
+#EXTINF:-1 tvg-id="sliv_291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="General",SET HD
 https://game.denver1769.fun/Jtv/oops.m3u8?id=sliv_291&token=SPA1aA|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/
 
