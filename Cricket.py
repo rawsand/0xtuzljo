@@ -16,7 +16,7 @@ playlist_links = [
 filters = [
     {"type": "All"},  # Link 1 → All channels
     {"type": "All"},  # Link 2 → All channels
-    {"type": "GroupTitle", "values": ["AI SPORTS", "EXTRAS"]},  # Link 3
+    {"type": "GroupTitle", "values": ["AI SPORTS", "EXTRAS", "ICC TV (T20 WC26)"]},  # Link 3
     {"type": "ChannelName", "value": "STAR SPORTS"}  # Link 4 (partial match)
 ]
 
