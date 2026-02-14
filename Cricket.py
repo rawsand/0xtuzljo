@@ -4,7 +4,7 @@ import requests
 # PLAYLIST URLS (Replace with real URLs)
 # ==============================
 playlist_links = [
-    "https://rkdyiptv.pages.dev/Playlist/Cricket.m3u",
+    #"https://rkdyiptv.pages.dev/Playlist/Cricket.m3u",
     "https://github.com/etcvai/zero_etcvai/blob/main/icc.m3u8",
     "https://github.com/etcvai/ExtenderMax/blob/main/iptv.m3u8",
     "https://github.com/atanuroy22/iptv/blob/main/output/sports.m3u"
