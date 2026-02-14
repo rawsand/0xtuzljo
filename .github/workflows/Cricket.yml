@@ -1,0 +1,45 @@
+name: Cricket - Working
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 */5 * * *'
+    - cron: '40 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Delete file
+        run: |
+          FILE_TO_DELETE="8b249zhj3vg65us_sports4.m3u"
+          if [ -f "$FILE_TO_DELETE" ]; then
+            git rm "$FILE_TO_DELETE"
+          else
+            echo "File $FILE_TO_DELETE does not exist"
+          fi
+
+      - name: Run playlist filter        
+        run: |
+          python Cricket.py    
+
+      - name: Commit cricket playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Delete $FILE_TO_DELETE" || echo "No changes to commit"
+          git add 8b249zhj3vg65us_sports4.m3u
+          git commit -m "Update cricket playlist"
+          git push
