@@ -20,7 +20,7 @@ filters = [
     {"type": "ChannelName", "value": "STAR SPORTS"}  # Link 4 (partial match)
 ]
 
-OUTPUT_FILE = "8b249zhj3vg65us_sports4.m3u"
+OUTPUT_FILE = "8b249zhj3vg65us_sports.m3u"
 
 
 # ==============================
