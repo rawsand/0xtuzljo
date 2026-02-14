@@ -3,8 +3,7 @@ name: Cricket - Working
 on:
   workflow_dispatch:
   schedule:
-    - cron: '40 */5 * * *'
-    - cron: '40 */6 * * *'
+    - cron: '1 * * * *'
 
 jobs:
   build:
