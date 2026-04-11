@@ -1,0 +1,49 @@
+#EXTM3U
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+<script>
+window.location.href = "https://telegram.me/rkdyiptv";
+</script>
+</html>
+<noscript>
+</noscript>
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
+http://datahub11.com:80/live/999858334/750590138/98864.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
+http://datahub11.com:80/live/999858334/750590138/98865.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
+http://datahub11.com:80/live/999858334/750590138/98866.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI " tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="IPL (2026)",STAR SPORTS 1 HINDI 
+http://datahub11.com:80/live/999858334/750590138/702561.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="IPL (2026)",STAR SPORTS 1 FHD (50FPS)
+http://datahub11.com:80/live/999858334/750590138/703296.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 FHD (50 FPS)" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="IPL (2026)",STAR SPORTS 2 FHD (50 FPS)
+http://datahub11.com:80/live/999858334/750590138/703297.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="STAR SPORTS 1 HINDI FHD (50 FPS)" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="IPL (2026)",STAR SPORTS 1 HINDI FHD (50 FPS)
+http://datahub11.com:80/live/999858334/750590138/703298.ts
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+http://datahub11.com:80/live/999858334/750590138/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
+http://datahub11.com:80/live/999858334/750590138/177843.ts
+#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="CRIC || STAR SPORTS 1 KANNADA ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="CRICKET",CRIC || STAR SPORTS 1 KANNADA ᴴᴰ
+http://datahub11.com:80/live/999858334/750590138/380977.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 ENG LOW QUALITY" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="IPL (2026)",STAR SPORTS 1 ENG LOW QUALITY
+http://datahub11.com:80/live/999858334/750590138/702533.ts
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil (576p)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil HD (1080p)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil (576p)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Tamil HD (1080p)
+http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
