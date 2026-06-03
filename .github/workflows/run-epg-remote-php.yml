@@ -3,7 +3,7 @@ name: Trigger Secret PHP Script
 on:
   schedule:
     # Runs 8 AM IST
-    - cron: '30 2 * * *'
+    - cron: '40 */9 * * *'
     
   # Allows you to manually trigger the workflow from the Actions tab anytime
   workflow_dispatch:
