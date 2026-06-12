@@ -17,5 +17,7 @@ jobs:
       env:
         # This maps your GitHub secret to an environment variable in the runner
         TARGET_URL: ${{ secrets.MY_EPG_PHP_URL }}
+        TARGET_URL1: ${{ secrets.MY_EPG_PHP_URL1 }}
       run: |
         curl -I "$TARGET_URL"
+        curl -I "$TARGET_URL1"
