@@ -51,7 +51,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 license_key = match.group(1).strip()
 
         f.write(
-            f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="JioTV+ | Sports" tvg-logo="", {titles[i]}\n'
+            f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="Cricket" tvg-logo="", {titles[i]}\n'
         )
 
         f.write("#KODIPROP:inputstream.adaptive.license_type=clearkey\n")
