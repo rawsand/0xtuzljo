@@ -5,7 +5,14 @@ m3u_url = "https://la.drmlive.net/tp/playlist"
 output_file = "8b249zhj3vg65us_sports.m3u"
 
 result = subprocess.run(
-    ["curl", "-L", "-I", "https://la.drmlive.net/tp/playlist"],
+    [
+        "curl",
+        "-L",
+        "-s",
+        "-A",
+        "Mozilla/5.0",
+        "https://la.drmlive.net/tp/playlist"
+    ],
     capture_output=True,
     text=True
 )
