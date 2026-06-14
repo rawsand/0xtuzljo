@@ -1,8 +1,10 @@
 import re
 import requests
+import subprocess
 
 # URL where the text file is located
 URL = "https://raw.githubusercontent.com/rawsand/telegram-github-bot/refs/heads/main/links.txt"  # Change this
+m3u_url = "https://la.drmlive.net/tp/playlist"
 
 # Output file
 OUTPUT_FILE = "8b249zhj3vg65us_sports.m3u"
@@ -72,3 +74,38 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         tvg_id += 1
 
 print(f"Playlist written to {OUTPUT_FILE}")
+
+# Fetch M3U using curl
+result = subprocess.run(
+    ["curl", "-L", "-s", m3u_url],
+    capture_output=True,
+    text=True,
+    check=True
+)
+
+content = result.stdout
+lines = content.splitlines()
+
+with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+
+        if line.startswith("#EXTINF") and 'group-title="Cricket"' in line:
+            f.write(line + "\n")
+
+            # Write any metadata lines (#KODIPROP etc.)
+            j = i + 1
+
+            while j < len(lines) and lines[j].startswith("#"):
+                f.write(lines[j] + "\n")
+                j += 1
+
+            # Write stream URL
+            if j < len(lines):
+                f.write(lines[j] + "\n\n")
+
+            i = j
+
+        i += 1
