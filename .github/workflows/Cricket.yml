@@ -32,7 +32,8 @@ jobs:
 
       - name: Run playlist filter        
         run: |
-          python Cricket.py    
+          python Cricket.py 
+          python Cricket3.py
 
       - name: Commit cricket playlist
         run: |
