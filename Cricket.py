@@ -4,7 +4,7 @@ import subprocess
 
 # URL where the text file is located
 URL = "https://raw.githubusercontent.com/rawsand/telegram-github-bot/refs/heads/main/links.txt"  # Change this
-m3u_url = "https://la.drmlive.net/tp/playlist"
+URL1 = "https://la.drmlive.net/tp/playlist"
 
 # Output file
 OUTPUT_FILE = "8b249zhj3vg65us_sports.m3u"
@@ -77,7 +77,7 @@ print(f"Playlist written to {OUTPUT_FILE}")
 
 # Fetch M3U using curl
 result = subprocess.run(
-    ["curl", "-L", "-s", m3u_url],
+    ["curl", "-L", "-s", URL1],
     capture_output=True,
     text=True,
     check=True
