@@ -2,7 +2,7 @@ import re
 import requests
 
 # URL where the text file is located
-URL = "https://raw.githubusercontent.com/links.txt"  # Change this
+URL = "https://raw.githubusercontent.com/rawsand/telegram-github-bot/refs/heads/main/links.txt"  # Change this
 
 # Output file
 OUTPUT_FILE = "8b249zhj3vg65us_sports.m3u"
