@@ -1,132 +1,113 @@
-<?php
+import re
+import requests
 
-// ===============================
-// PLAYLIST LINKS
-// ===============================
+# ===============================
+# PLAYLIST LINKS
+# ===============================
 
-$playlistLinks = [
-    "Link 1" => "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
-];
+playlist_links = {
+    "Link 1": "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
+}
 
-// ===============================
-// OUTPUT FILE
-// ===============================
+# ===============================
+# OUTPUT FILE
+# ===============================
 
-$outputFile = "8b249zhj3vg65us_so.m3u";
+output_file = "8b249zhj3vg65us_so.m3u"
 
-// ===============================
-// RULES ARRAY (NEW FORMAT)
-// Channel : Search Group : Replace Group
-// ===============================
+# ===============================
+# RULES
+# Format: Channel : Search Group : Replace Group
+# ===============================
 
-$rules = [
+rules = [
     "SET HD SonyLiv : SonyLiv | Entertainment : JioTV+ | Entertainment"
-];
+]
 
+# ===============================
+# FETCH PLAYLIST
+# ===============================
 
-// ===============================
-// FETCH PLAYLIST
-// ===============================
+def fetch_playlist(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 IPTV Parser"
+    }
+    r = requests.get(url, headers=headers, timeout=30)
+    return r.text if r.status_code == 200 else ""
 
-function fetchPlaylist($url)
-{
-    $ch = curl_init();
+# ===============================
+# SPLIT EXTINF BLOCKS
+# ===============================
 
-    curl_setopt_array($ch, [
-        CURLOPT_URL => $url,
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT => 30,
-        CURLOPT_SSL_VERIFYPEER => false,
-        CURLOPT_USERAGENT => "Mozilla/5.0 IPTV Parser"
-    ]);
+def split_blocks(content):
+    return re.split(r'(?=#EXTINF)', content)
 
-    $data = curl_exec($ch);
-    curl_close($ch);
+# ===============================
+# START OUTPUT FILE
+# ===============================
 
-    return $data;
-}
+open(output_file, "w", encoding="utf-8").close()
 
+# ===============================
+# PROCESS
+# ===============================
 
-// ===============================
-// SPLIT EXTINF BLOCKS
-// ===============================
+for link_name, url in playlist_links.items():
 
-function splitBlocks($content)
-{
-    return preg_split('/(?=#EXTINF)/i', $content, -1, PREG_SPLIT_NO_EMPTY);
-}
+    playlist = fetch_playlist(url)
+    if not playlist:
+        continue
 
+    blocks = split_blocks(playlist)
 
-// ===============================
-// START OUTPUT FILE
-// ===============================
+    for block in blocks:
 
-file_put_contents($outputFile, "");
+        lines = block.strip().split("\n")
+        if not lines:
+            continue
 
+        extinf_line = lines[0]
+        if not extinf_line.startswith("#EXTINF"):
+            continue
 
-// ===============================
-// PROCESS RULES
-// ===============================
+        # Extract channel name
+        channel_name = extinf_line.split(",")[-1].strip().lower()
+        channel_name = re.sub(r"\s+", " ", channel_name)
 
-foreach ($playlistLinks as $linkName => $url) {
+        # Extract group title
+        group_title = ""
+        match = re.search(r'group-title="([^"]+)"', extinf_line, re.IGNORECASE)
+        if match:
+            group_title = match.group(1).strip().lower()
+            group_title = re.sub(r"\s+", " ", group_title)
 
-    $playlist = fetchPlaylist($url);
-    if (!$playlist) continue;
+        for rule in rules:
 
-    $blocks = splitBlocks($playlist);
+            parts = rule.split(":", 2)
+            if len(parts) < 3:
+                continue
 
-    foreach ($blocks as $block) {
-
-        $extinfLine = strtok($block, "\n");
-
-        if (!$extinfLine || stripos($extinfLine, '#EXTINF') !== 0) continue;
-
-        // Extract channel name
-        $parts = explode(",", $extinfLine);
-        $channelName = strtolower(trim(end($parts)));
-        $channelName = preg_replace('/\s+/', ' ', $channelName);
-
-        // Extract group title
-        $groupTitle = '';
-        if (preg_match('/group-title="([^"]+)"/i', $extinfLine, $match)) {
-            $groupTitle = strtolower(trim($match[1]));
-            $groupTitle = preg_replace('/\s+/', ' ', $groupTitle);
-        }
-
-        foreach ($rules as $rule) {
-
-            $parts = explode(":", $rule, 3);
-
-            if (count($parts) < 3) continue;
-
-            $ruleChannel = strtolower(trim($parts[0]));
-            $ruleSearch  = strtolower(trim($parts[1]));
-            $ruleReplace = trim($parts[2]);
-
-            $ruleChannel = preg_replace('/\s+/', ' ', $ruleChannel);
-            $ruleSearch  = preg_replace('/\s+/', ' ', $ruleSearch);
+            rule_channel = re.sub(r"\s+", " ", parts[0].strip().lower())
+            rule_search = re.sub(r"\s+", " ", parts[1].strip().lower())
+            rule_replace = parts[2].strip()
 
             if (
-                $channelName === $ruleChannel &&
-                strpos($groupTitle, $ruleSearch) !== false
-            ) {
+                channel_name == rule_channel and
+                rule_search in group_title
+            ):
 
-                // Replace group-title
-                $newExtinf = preg_replace(
-                    '/group-title="[^"]*"/i',
-                    'group-title="' . $ruleReplace . '"',
-                    $extinfLine
-                );
+                new_extinf = re.sub(
+                    r'group-title="[^"]*"',
+                    f'group-title="{rule_replace}"',
+                    extinf_line,
+                    flags=re.IGNORECASE
+                )
 
-                $block = str_replace($extinfLine, $newExtinf, $block);
+                block = block.replace(extinf_line, new_extinf)
 
-                file_put_contents($outputFile, trim($block) . "\n\n", FILE_APPEND);
+                with open(output_file, "a", encoding="utf-8") as f:
+                    f.write(block.strip() + "\n\n")
 
-                break;
-            }
-        }
-    }
-}
+                break
 
-?>
+print(f"Playlist written to {output_file}")
