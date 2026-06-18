@@ -28,8 +28,9 @@ jobs:
           #URL2: ${{ secrets.PLAYLIST_URL2 }}
           URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
-          python Working.py "$URL3" "$URL1" #"$URL2"        
-
+          #python Working.py "$URL3" "$URL1" #"$URL2"        
+          python Clarity_Channel.py
+          
       - name: Commit filtered playlist
         run: |
           git config --global user.name "github-actions[bot]"
