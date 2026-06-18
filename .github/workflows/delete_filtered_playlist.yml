@@ -22,7 +22,7 @@ jobs:
 
       - name: Delete file
         run: |
-          FILE_TO_DELETE="output_blocks/filtered_playlist.m3u"
+          FILE_TO_DELETE="8b249zhj3vg65us_so.m3u"
           if [ -f "$FILE_TO_DELETE" ]; then
             git rm "$FILE_TO_DELETE"
           else
