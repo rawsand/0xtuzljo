@@ -28,6 +28,7 @@ jobs:
           URL3: ${{ secrets.PLAYLIST_URL3 }}
         run: |
           python Clarity_Channel.py
+          python Cricket.py
           # python Working.py "$URL3" "$URL1" "$URL2"
           
       - name: Commit filtered playlist
@@ -35,5 +36,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add 8b249zhj3vg65us_so.m3u
+          git add 8b249zhj3vg65us_sports.m3u
           git commit -m "Update playlist"
           git push
