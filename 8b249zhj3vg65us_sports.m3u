@@ -22,39 +22,41 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN: Willow HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=499601
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", AU | FOX CRICKET 501 HD
-https://m3umergers.xyz/filex-m3umergers/channels.php?id=247166
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", SP-UK | SKY SPORTS CRICKET
-
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", SP-UK | SKY SPORTS CRICKET [HD]
-
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", NZ | SKY SPORTS CRICKET FHD
-https://m3umergers.xyz/filex-m3umergers/channels.php?id=250199
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN: WILLOW HD
-
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | WILLOW CRICKET HD
-
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | WILLOW EXTRA
-
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", US: WILLOW HD
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | Willow Cricket HD
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=52109
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", US: WILLOW XTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW EXTRA" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | WILLOW EXTRA
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=970119
 
+#EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-name="US: Willow HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",US: Willow HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=291653
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", NC: WILLOW
+#EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-name="US: Willow XTRA HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",US: Willow XTRA HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=291654
 
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956604
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | ASTRO CRICKET HD
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket [HD]" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket [HD]
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956605
+
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket [UHD]" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket [UHD]
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956606
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sports Cricket FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",NZ | SKY Sports Cricket FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=250199
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | Astro Cricket HD
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=451415
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",MY: Astro Cricket HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=303500
+
+#EXTINF:-1 tvg-id="" tvg-name="AU | FOX Cricket 501 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AU | FOX Cricket 501 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=247166
 
 #EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", MY: ASTRO CRICKET HD
 \
