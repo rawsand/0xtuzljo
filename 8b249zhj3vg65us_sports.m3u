@@ -58,11 +58,23 @@ https://m3umergers.xyz/filex-m3umergers/channels.php?id=303500
 #EXTINF:-1 tvg-id="" tvg-name="AU | FOX Cricket 501 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AU | FOX Cricket 501 HD
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=247166
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", MY: ASTRO CRICKET HD
-\
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICLIFE 1 FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",CRICKET | CRICLIFE 1 FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=1342651
+
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 2 FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",CRICKET | CRICBUZZ 2 FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=1342653
 
 #EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", AF | SUPER SPORTS CRICKET  HD
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=53044
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 1 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 1 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296353
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 2 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 2 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296354
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 3 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 3 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296355
 
 #EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY HD." tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY HD.
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=911285
