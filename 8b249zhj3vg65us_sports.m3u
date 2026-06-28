@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" group-title="Cricket" tvg-logo="", DropBoxLink
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="2" group-title="Cricket" tvg-logo="", Sky
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="3" group-title="Cricket" tvg-logo="", Willow
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="4" group-title="Cricket" tvg-logo="", Prime1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="5" group-title="Cricket" tvg-logo="", Prime2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN: Willow HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=499601
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | Willow Cricket HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=52109
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW EXTRA" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | WILLOW EXTRA
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=970119
+
+#EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-name="US: Willow HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",US: Willow HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=291653
+
+#EXTINF:-1 tvg-id="Willow.Xtra.us2" tvg-name="US: Willow XTRA HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",US: Willow XTRA HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=291654
+
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956604
+
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket [HD]" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket [HD]
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956605
+
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK | Sky Sports Cricket [UHD]" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",SP-UK | Sky Sports Cricket [UHD]
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=956606
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY Sports Cricket FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",NZ | SKY Sports Cricket FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=250199
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Astro Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",IN | Astro Cricket HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=451415
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",MY: Astro Cricket HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=303500
+
+#EXTINF:-1 tvg-id="" tvg-name="AU | FOX Cricket 501 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AU | FOX Cricket 501 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=247166
+
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICLIFE 1 FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",CRICKET | CRICLIFE 1 FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=1342651
+
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET | CRICBUZZ 2 FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",CRICKET | CRICBUZZ 2 FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=1342653
+
+#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", AF | SUPER SPORTS CRICKET  HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=53044
+
+#EXTINF:-1 tvg-id="SS Cricket" tvg-name="ZA: Supersport Cricket HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",ZA: Supersport Cricket HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=290337
+
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="PTV Sports HD." tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",PTV Sports HD.
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=247170
+
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY Sports FHD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",PK | ARY Sports FHD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=62393
+
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="A Sports 4K" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",A Sports 4K
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=247168
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 1 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 1 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296353
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 2 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 2 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296354
+
+#EXTINF:-1 tvg-id="" tvg-name="AE: Starzplay Criclife 3 HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Cricket",AE: Starzplay Criclife 3 HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=296355
+
+#EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY HD." tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY HD.
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=911285
+
+#EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY 4K" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY 4K
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=275035
+
+#EXTINF:-1 tvg-id="463919" tvg-name="IN | SONY TV HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY TV HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=15
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TV ASIA HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY TV ASIA HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=276648
+
+#EXTINF:-1 tvg-id="463919" tvg-name="IN: SONY (SET India) HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY (SET India) HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=499641
+
+#EXTINF:-1 tvg-id="463919" tvg-name="IN: SONY TV  HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",IN SONY TV  HD1
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=499648
+
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="BR: SONY Channel HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",BR SONY Channel HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=304328
+
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="LA: SONY Channel HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",LA SONY Channel HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=303403
+
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="CO: SONY Channel HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="JioTV+ | Entertainment",CO SONY Channel HD
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=302952
