@@ -8,7 +8,8 @@ import requests
 
 playlist_links = {
     "Link 1": os.environ["EXTDERM_PLYLST_URL"],
-    "Link 2": os.environ["CLR_PLYLST_URL"]
+    "Link 2": os.environ["CLR_PLYLST_URL"],
+    "Link 3": os.environ["VaTh_PLYLST_URL"]
 }
 
 # ===============================
