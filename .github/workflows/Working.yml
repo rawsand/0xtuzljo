@@ -28,6 +28,7 @@ jobs:
           URL3: ${{ secrets.PLAYLIST_URL3 }}
           EXTDERM_PLYLST_URL: ${{ secrets.EXTDERM_PLYLST_URL }}
           CLR_PLYLST_URL: ${{ secrets.CLR_PLYLST_URL }}
+          VaTh_PLYLST_URL: ${{ secrets.VaTh_PLYLST_URL }}
         run: |
           python customlist_mix.py
           # python Clarity_Channel.py
