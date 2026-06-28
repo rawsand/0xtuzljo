@@ -1,31 +1,38 @@
+Music
 9XM : Link 111 : Jio TV : Music
-Animal Planet English : Link 1 : Jio TV : Infotainment 
-Animal Planet HD English : Link 1 : Jio TV : Infotainment 
-Animal Planet HD Hindi : Link 1 : Jio TV : Infotainment 
-Animal Planet Hindi : Link 1 : Jio TV : Infotainment 
 B4U Music : Link 111 : Jio TV : Music
-B4U Movies : Link 1 : Jio TV : Movies
-Colors Cineplex : Link 1 : Jio TV : Movies
+E 24 : Link 111 : Jio TV : Music
+MTV HD : Link 111 : Jio TV : Music
+Music India : Link 111 : Jio TV : Music 
+Zing : Link 2 : Clarity TV | ZEE5 : Music
+Zoom : Link 2 : Clarity TV | ZEE5 : Music
+
+Infotainment
+Animal Planet English : Link 111 : Jio TV : Infotainment 
+Animal Planet HD English : Link 111 : Jio TV : Infotainment 
+Animal Planet HD Hindi : Link 111 : Jio TV : Infotainment 
+Animal Planet Hindi : Link 111 : Jio TV : Infotainment 
+Discovery Kids : Link 2 : Clarity TV | ZEE5 : Infotainment 
+Discovery Science : Link 2 : Clarity TV | ZEE5 : Infotainment
+Discovery Turbo : Link 2 : Clarity TV | ZEE5 : Infotainment
+History TV18 HD Hindi : Link 111 : Jio TV : Infotainment 
+
+Movies
+And Pictures SD : Link 2 : Clarity TV | ZEE5 : Movies
+& Pictures HD : Link 2 : Clarity TV | ZEE5 : Movies
+
+
+B4U Movies : Link 111 : Jio TV : Movies
+Colors Cineplex : Link 111 : Jio TV : Movies
 Colors Cineplex Bollywood : Link 111 : Jio TV : Movies
 Colors Cineplex HD : Link 111 : Jio TV : Movies
 Colors Cineplex Superhit : Link 111 : Jio TV : Movies
-Colors HD : Link 1 : Jio TV : Entertainment 
-Colors Marathi HD : Link 1 : Jio TV : Entertainment 
-Discovery HD Hindi : Link 1 : Jio TV : Infotainment 
-Discovery Kids 2 : Link 1 : Jio TV : Infotainment 
-E 24 : Link 1 : Jio TV : Music
-Epic TV : Link 1 : Jio TV : Entertainment
-Food Food : Link 1 : Jio TV : Lifestyle 
-Foodxp : Link 1 : Jio TV : Lifestyle
-GOOD TiMES : Link 1 : Jio TV : Lifestyle
-History TV18 HD Hindi : Link 1 : Jio TV : Infotainment 
-Jai Maharashtra : Link 1 : Jio TV : News1 
-Lokshahi News : Link 1 : Jio TV : News1 
-MTV HD : Link 111 : Jio TV : Music
 Movies Now HD : Link 111 : Jio TV : Movies
-Music India : Link 1 : Jio TV : Music 
-News Marathi 24x7 : Link 1 : Jio TV : News1
-Star Bharat HD : Link 111 : Jio TV : Entertainment
+Sony MAX 2 SonyLiv : Link 2 : SonyLiv | Movies : Movies
+Sony MAX HD SonyLiv : Link 2 : SonyLiv | Movies : Movies
+Sony MAX SD SonyLiv : Link 2 : SonyLiv | Movies : Movies
+Sony Pix HD English SonyLiv : Link 2 : SonyLiv | Movies : Movies
+Sony WAH SonyLiv : Link 2 : SonyLiv | Movies : Movies
 Star Gold : Link 111 : Jio TV : Movies
 Star Gold 2 : Link 111 : Jio TV : Movies
 Star Gold 2 HD : Link 111 : Jio TV : Movies
@@ -38,21 +45,34 @@ Star Movies : Link 111 : Jio TV : Movies
 Star Movies HD : Link 111 : Jio TV : Movies
 Star Movies Select HD : Link 111 : Jio TV : Movies
 Star Pravah HD : Link 111 : Jio TV : Movies
-Star Sports HD1 : Link 1
-Star Sports HD1 Hindi : Link 1
-Star Sports HD2 : Link 1
-Star Sports 2 Hindi HD : Link 1
-Star Sports Select HD1 : Link 1
-Star Sports Select HD2 : Link 1
 Star Utsav Movies : Link 111 : Jio TV : Movies
-TLC HD Hindi : Link 1 : Jio TV : Lifestyle
-TLC HD English : Link 111 : Jio TV : Lifestyle 
-Top Marathi News : Link 1 : Jio TV : News1
-Travelxp HD : Link 1 : Jio TV : Lifestyle
-Travelxp HD Hindi : Link 1 : Jio TV : Lifestyle
-TV9 Maharashtra : Link 1 : Jio TV : News1
-Zing : Link 1 : Jio TV : Music
-Zoom : Link 1 : Jio TV : Music
+Zee Action : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Anmol Cinema : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Cinema SD : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Cinema HD : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Bollywood : Link 2 : Clarity TV | ZEE5 : Movies
 
 
+Entertainment
+& TV HD : Link 2 : Clarity TV | ZEE5 : Entertainment
+Colors HD : Link 111 : Jio TV : Entertainment 
+Colors Marathi HD : Link 111 : Jio TV : Entertainment 
+Epic TV : Link 111 : Jio TV : Entertainment
+SET HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
+Sony SAB HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
+Star Bharat HD : Link 111 : Jio TV : Entertainment
+Zee Marathi : Link 2 : Clarity TV | ZEE5 : Entertainment
+Zee TV HD : Link 2 : Clarity TV | ZEE5 : Entertainment
 
+
+Lifestyle
+Food Food : Link 111 : Jio TV : Lifestyle 
+Foodxp : Link 111 : Jio TV : Lifestyle
+GOOD TiMES : Link 111 : Jio TV : Lifestyle
+TLC : Link 2 : Clarity TV | ZEE5 : Lifestyle
+TLC HD English : Link 111 : Jio TV : Lifestyle
+Travelxp HD : Link 111 : Jio TV : Lifestyle
+Travelxp HD Hindi : Link 111 : Jio TV : Lifestyle
+
+News
+Zee Hindustan : Link 2 : Clarity TV | ZEE5 : News1
