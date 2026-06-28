@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '40 0 * * *'
+    - cron: '40 6,12 * * *'
 
 jobs:
   build:
