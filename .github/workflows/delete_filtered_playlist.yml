@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '30 0 * * *'
+    - cron: '30 6,12 * * *'
 
 permissions:
   contents: write   # ✅ required to push commits
