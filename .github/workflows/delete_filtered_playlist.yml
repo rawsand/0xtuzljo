@@ -22,7 +22,7 @@ jobs:
 
       - name: Delete file2
         run: |
-          FILE_TO_DELETE1="8b249zhj3vg65us_mix.m3u"
+          FILE_TO_DELETE2="8b249zhj3vg65us_mix.m3u"
           if [ -f "$FILE_TO_DELETE2" ]; then
             git rm "$FILE_TO_DELETE2"
           else
