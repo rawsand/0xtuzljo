@@ -29,15 +29,6 @@ jobs:
             echo "File $FILE_TO_DELETE does not exist"
           fi
 
-      - name: Delete file1
-        run: |
-          FILE_TO_DELETE1="8b249zhj3vg65us_sports.m3u"
-          if [ -f "$FILE_TO_DELETE1" ]; then
-            git rm "$FILE_TO_DELETE1"
-          else
-            echo "File $FILE_TO_DELETE1 does not exist"
-          fi
-
       - name: Delete file2
         run: |
           FILE_TO_DELETE1="8b249zhj3vg65us_mix.m3u"
