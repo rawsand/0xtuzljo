@@ -2,8 +2,8 @@ Music
 9XM : Link 111 : Jio TV : Music
 B4U Music : Link 111 : Jio TV : Music
 E 24 : Link 111 : Jio TV : Music
-MTV HD : Link 111 : Jio TV : Music
-Music India : Link 111 : Jio TV : Music 
+MTV HD : Link 1 : JSTAR WW : Music
+Music India : Link 1 : JSTAR WW : Music
 Zing : Link 2 : Clarity TV | ZEE5 : Music
 Zoom : Link 2 : Clarity TV | ZEE5 : Music
 
@@ -20,59 +20,65 @@ History TV18 HD Hindi : Link 111 : Jio TV : Infotainment
 Movies
 And Pictures SD : Link 2 : Clarity TV | ZEE5 : Movies
 & Pictures HD : Link 2 : Clarity TV | ZEE5 : Movies
-
-
-B4U Movies : Link 111 : Jio TV : Movies
 Colors Cineplex : Link 111 : Jio TV : Movies
-Colors Cineplex Bollywood : Link 111 : Jio TV : Movies
-Colors Cineplex HD : Link 111 : Jio TV : Movies
-Colors Cineplex Superhit : Link 111 : Jio TV : Movies
+Colors Cineplex Bollywood : Link 1 : JSTAR WW : Movies
+Colors Cineplex HD : Link 3 : Extra | Jio Cinema : Movies
+Colors Cineplex Superhit : Link 1 : JSTAR WW : Movies
 Movies Now HD : Link 111 : Jio TV : Movies
 Sony MAX 2 SonyLiv : Link 2 : SonyLiv | Movies : Movies
 Sony MAX HD SonyLiv : Link 2 : SonyLiv | Movies : Movies
 Sony MAX SD SonyLiv : Link 2 : SonyLiv | Movies : Movies
 Sony Pix HD English SonyLiv : Link 2 : SonyLiv | Movies : Movies
 Sony WAH SonyLiv : Link 2 : SonyLiv | Movies : Movies
-Star Gold : Link 111 : Jio TV : Movies
-Star Gold 2 : Link 111 : Jio TV : Movies
-Star Gold 2 HD : Link 111 : Jio TV : Movies
-Star Gold HD : Link 111 : Jio TV : Movies
-Star Gold Romance : Link 111 : Jio TV : Movies
-Star Gold Select : Link 111 : Jio TV : Movies
-Star Gold Select HD : Link 111 : Jio TV : Movies
-Star Gold Thrills : Link 111 : Jio TV : Movies
-Star Movies : Link 111 : Jio TV : Movies
-Star Movies HD : Link 111 : Jio TV : Movies
-Star Movies Select HD : Link 111 : Jio TV : Movies
-Star Pravah HD : Link 111 : Jio TV : Movies
-Star Utsav Movies : Link 111 : Jio TV : Movies
+Star Gold : Link 1 : JSTAR WW : Movies
+Star Gold 2 : Link 1 : JSTAR WW : Movies
+Star Gold 2 HD : Link 1 : JSTAR WW : Movies
+Star Gold HD : Link 1 : JSTAR WW : Movies
+Star Gold Romance : Link 1 : JSTAR WW : Movies
+Star Gold Select : Link 1 : JSTAR WW : Movies
+Star Gold Select HD : Link 1 : JSTAR WW : Movies
+Star Gold Thrills : Link 1 : JSTAR WW : Movies
+Star Movies : Link 1 : JSTAR WW : Movies
+Star Movies HD : Link 1 : JSTAR WW : Movies
+Star Movies Select HD : Link 1 : JSTAR WW : Movies
+Star Pravah Picture HD : Link 1 : JSTAR WW : Movies
+Star Utsav Movies : Link 1 : JSTAR WW : Movies
 Zee Action : Link 2 : Clarity TV | ZEE5 : Movies
-Zee Anmol Cinema : Link 2 : Clarity TV | ZEE5 : Movies
-Zee Cinema SD : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Anoml Cinema : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Anmol Cinema 2 : Link 1 : JSTAR WW : Movies
+Zee Cinema SD : Link 111 : Clarity TV | ZEE5 : Movies
 Zee Cinema HD : Link 2 : Clarity TV | ZEE5 : Movies
 Zee Bollywood : Link 2 : Clarity TV | ZEE5 : Movies
+Zee Talkies : Link 1 : JSTAR WW : Movies
+Zee Talkies HD : Link 1 : JSTAR WW : Movies
 
 
 Entertainment
 & TV HD : Link 2 : Clarity TV | ZEE5 : Entertainment
-Colors HD : Link 111 : Jio TV : Entertainment 
+Colors HD : Link 1 : JSTAR WW : Entertainment
 Colors Marathi HD : Link 111 : Jio TV : Entertainment 
 Epic TV : Link 111 : Jio TV : Entertainment
 SET HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
+SET HD : Link 1 : JSTAR WW : Entertainment
+Sony Marathi HD : Link 1 : JSTAR WW : Entertainment
 Sony SAB HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
-Star Bharat HD : Link 111 : Jio TV : Entertainment
+Star Bharat : Link 1 : JSTAR WW : Entertainment
+Star Plus HD : Link 1 : JSTAR WW : Entertainment
 Zee Marathi : Link 2 : Clarity TV | ZEE5 : Entertainment
+Zee Marathi HD : Link 1 : JSTAR WW : Entertainment
 Zee TV HD : Link 2 : Clarity TV | ZEE5 : Entertainment
 
 
 Lifestyle
 Food Food : Link 111 : Jio TV : Lifestyle 
-Foodxp : Link 111 : Jio TV : Lifestyle
+Foodxp : Link 1 : JSTAR WW : Lifestyle
 GOOD TiMES : Link 111 : Jio TV : Lifestyle
 TLC : Link 2 : Clarity TV | ZEE5 : Lifestyle
 TLC HD English : Link 111 : Jio TV : Lifestyle
-Travelxp HD : Link 111 : Jio TV : Lifestyle
+Travelxp HD : Link 1 : JSTAR WW : Lifestyle
 Travelxp HD Hindi : Link 111 : Jio TV : Lifestyle
+Zee Zest HD : Link 1 : JSTAR WW : Lifestyle
 
 News
 Zee Hindustan : Link 2 : Clarity TV | ZEE5 : News1
+Zee 24 Taas : Link 1 : News : News1
