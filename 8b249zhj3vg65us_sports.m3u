@@ -114,3 +114,9 @@ https://m3umergers.xyz/filex-m3umergers/channels.php?id=303403
 
 #EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="CO: SONY Channel HD" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Others",CO SONY Channel HD
 https://m3umergers.xyz/filex-m3umergers/channels.php?id=302952
+
+#EXTINF:-1 tvg-id="464169" tvg-name="IN | STAR GOLD 2 4K" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Movies",IN | STAR GOLD 2 4K
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=275050
+
+#EXTINF:-1 tvg-id="463882" tvg-name="IN | STAR GOLD 4K" tvg-logo="https://m3umergers.xyz/logo.png" group-title="Movies",IN | STAR GOLD 4K
+https://m3umergers.xyz/filex-m3umergers/channels.php?id=275049
