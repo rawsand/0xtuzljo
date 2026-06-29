@@ -61,7 +61,7 @@ with open(rules_file, "r", encoding="utf-8") as f:
 # ===============================
 # PROCESS
 # ===============================
-
+tvg_id = 1
 for link_name, url in playlist_links.items():
 
     playlist = fetch_playlist(url)
@@ -117,6 +117,23 @@ for link_name, url in playlist_links.items():
                     extinf_line,
                     flags=re.IGNORECASE
                 )
+
+                # Add/replace tvg-id
+                if re.search(r'tvg-id="[^"]*"', new_extinf, re.IGNORECASE):
+                    new_extinf = re.sub(
+                        r'tvg-id="[^"]*"',
+                        f'tvg-id="{tvg_id}"',
+                        new_extinf,
+                        flags=re.IGNORECASE
+                    )
+                else:
+                    new_extinf = new_extinf.replace(
+                        "#EXTINF:-1",
+                        f'#EXTINF:-1 tvg-id="{tvg_id}"',
+                        1
+                    )
+                
+                tvg_id += 1
 
                 block = block.replace(extinf_line, new_extinf)
 
