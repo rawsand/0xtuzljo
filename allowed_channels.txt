@@ -18,6 +18,7 @@ Discovery Turbo : Link 2 : Clarity TV | ZEE5 : Infotainment
 History TV18 HD Hindi : Link 111 : Jio TV : Infotainment 
 
 Movies
+And Xplor HD : Link 1 : JSTAR WW : Movies
 And Pictures SD : Link 2 : Clarity TV | ZEE5 : Movies
 & Pictures HD : Link 2 : Clarity TV | ZEE5 : Movies
 Colors Cineplex : Link 111 : Jio TV : Movies
@@ -60,7 +61,7 @@ Colors Marathi HD : Link 111 : Jio TV : Entertainment
 Epic TV : Link 111 : Jio TV : Entertainment
 SET HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
 SET HD : Link 1 : JSTAR WW : Entertainment
-Sony Marathi HD : Link 1 : JSTAR WW : Entertainment
+Sony Marathi SD : Link 1 : JSTAR WW : Entertainment
 Sony SAB HD SonyLiv : Link 2 : SonyLiv | Entertainment : Entertainment
 Star Bharat : Link 1 : JSTAR WW : Entertainment
 Star Plus HD : Link 1 : JSTAR WW : Entertainment
