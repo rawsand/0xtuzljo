@@ -109,9 +109,8 @@ print(f"Playlist written to {OUTPUT_FILE}")
 # ===============================
 
 playlist_links = {
-    "Link 4": os.environ["Rkd_Xtream_PLYLST_URL"],
-    "Link 5": os.environ["Rkd_Mac_PLYLST_URL"],
-    "Link 6": os.environ["Rkd_StrSh_PLYLST_URL"]
+    "Link 8": os.environ["Rkd_Xtream_PLYLST_URL"],
+    "Link 9": os.environ["Rkd_Mac_PLYLST_URL"]
 }
 
 # ===============================
