@@ -9,15 +9,29 @@ on:
   workflow_dispatch:
 
 jobs:
-  trigger-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Ping Remote Server
-      env:
-        # This maps your GitHub secret to an environment variable in the runner
-        TARGET_URL: ${{ secrets.MY_EPG_PHP_URL }}
-        TARGET_URL1: ${{ secrets.MY_EPG_PHP_URL1 }}
-      run: |
-        curl -I "$TARGET_URL"
-        curl -I "$TARGET_URL1"
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run playlist filter        
+        run: |          
+          python final_epg1.py
+          
+      - name: Commit filtered playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add filtered.xml.gz
+          git commit -m "Update playlist"
+          git push
