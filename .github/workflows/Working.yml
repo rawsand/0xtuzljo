@@ -30,6 +30,8 @@ jobs:
           EXTDERM_PLYLST_URL: ${{ secrets.EXTDERM_PLYLST_URL }}
           CLR_PLYLST_URL: ${{ secrets.CLR_PLYLST_URL }}
           VaTh_PLYLST_URL: ${{ secrets.VaTh_PLYLST_URL }}
+          Rkd_Xtream_PLYLST_URL: ${{ secrets.Rkd_Xtream_PLYLST_URL }}
+          Rkd_Mac_PLYLST_URL: ${{ secrets.Rkd_Mac_PLYLST_URL }}
         run: |
           # python customlist_mix.py
           python final_epg1.py
