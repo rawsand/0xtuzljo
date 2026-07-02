@@ -215,23 +215,15 @@ for link_name, url in playlist_links.items():
                     flags=re.IGNORECASE
                 )
 
-                # Add/replace tvg-id
-                if re.search(r'tvg-id="[^"]*"', new_extinf, re.IGNORECASE):
-                    new_extinf = re.sub(
-                        r'tvg-id="[^"]*"',
-                        f'tvg-id="{tvg_id}"',
-                        new_extinf,
-                        flags=re.IGNORECASE
-                    )
-                else:
+                # Add tvg-id only if missing
+                if not re.search(r'tvg-id="[^"]*"', new_extinf, re.IGNORECASE):
                     new_extinf = new_extinf.replace(
                         "#EXTINF:-1",
                         f'#EXTINF:-1 tvg-id="{tvg_id}"',
                         1
                     )
-                
-                tvg_id += 1
-
+                    tvg_id += 1
+                    
                 block = block.replace(extinf_line, new_extinf)
 
                 with open(output_file, "a", encoding="utf-8") as f:
