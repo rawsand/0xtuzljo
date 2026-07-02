@@ -204,7 +204,8 @@ for link_name, url in playlist_links.items():
                 continue
 
             if (
-                channel_name == rule_channel and
+                (rule_channel in channel_name or channel_name in rule_channel)
+                and
                 rule_search in group_title
             ):
 
