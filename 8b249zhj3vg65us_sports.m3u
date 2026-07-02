@@ -24,42 +24,9 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfumc0t3cc/
 #KODIPROP:inputstream.adaptive.license_key=
 https://in-mc-fblive.fancode.com/mumbai/143396_english_hls_308563297d37105_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", AU | FOX CRICKET 501 HD
-http://filex.me:8080/live/38923738/54826927/247166.ts
+#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", FOX - Not Working
+http://filex.me:8080/247166.ts
 
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", SP-UK | SKY SPORTS CRICKET
-http://filex.me:8080/live/38923738/54826927/956604.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", SP-UK | SKY SPORTS CRICKET [HD]
-http://filex.me:8080/live/38923738/54826927/956605.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", NZ | SKY SPORTS CRICKET FHD
-http://filex.me:8080/live/38923738/54826927/250199.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN: WILLOW HD
-http://filex.me:8080/live/38923738/54826927/499601.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | WILLOW CRICKET HD
-http://filex.me:8080/live/38923738/54826927/52109.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | WILLOW EXTRA
-http://filex.me:8080/live/38923738/54826927/970119.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", US: WILLOW HD
-http://filex.me:8080/live/38923738/54826927/291653.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", US: WILLOW XTRA HD
-http://filex.me:8080/live/38923738/54826927/291654.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", NC: WILLOW
-http://filex.me:8080/movie/38923738/54826927/933634.mkv
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", IN | ASTRO CRICKET HD
-http://filex.me:8080/live/38923738/54826927/451415.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", MY: ASTRO CRICKET HD
-http://filex.me:8080/live/38923738/54826927/303500.ts
-
-#EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", AF | SUPER SPORTS CRICKET  HD
-http://filex.me:8080/live/38923738/54826927/53044.ts
+#EXTINF:-1 tvg-id="6" tvg-name="ASTRO CRICKET" tvg-logo="844.png" group-title="Cricket",ASTRO CRICKET
+https://rkdy-mac.vercel.app/api/mac/playlist.m3u?action=stream&id=844&token=rkdyiptv&key=rkdy
 
