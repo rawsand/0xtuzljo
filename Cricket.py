@@ -3,10 +3,10 @@ import re
 import requests
 
 # URL where the channels text file is located
-URL = "https://raw.githubusercontent.com/links.txt"
+URL = "https://raw.githubusercontent.com/rawsand/telegram-github-bot/refs/heads/main/links.txt"
 
 # URL containing channel-name / stream-url pairs
-TEXT_FILE_URL = "https://raw.githubusercontent.com/channels.txt"
+TEXT_FILE_URL = "https://raw.githubusercontent.com/rawsand/0xtuzljo/refs/heads/main/channels.txt"
 
 # Output file
 OUTPUT_FILE = "8b249zhj3vg65us_sports.m3u"
