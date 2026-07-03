@@ -72,14 +72,14 @@ Zee TV HD : Link 2 : Clarity TV | ZEE5 : Entertainment
 
 
 Lifestyle
-Food Food : Link 111 : Jio TV : Lifestyle 
-Foodxp : Link 1 : Entertainment : Lifestyle
-GOOD TiMES : Link 111 : Jio TV : Lifestyle
+Food Food : Link 111 : Lifestyle : Lifestyle 
+Foodxp : Link 1 : Lifestyle : Lifestyle
+GOOD TiMES : Link 1 : Lifestyle : Lifestyle
 TLC : Link 2 : Clarity TV | ZEE5 : Lifestyle
 TLC HD English : Link 111 : Jio TV : Lifestyle
-Travelxp HD : Link 1 : Entertainment : Lifestyle
-Travelxp HD Hindi : Link 111 : Jio TV : Lifestyle
-Zee Zest HD : Link 1 : Entertainment : Lifestyle
+Travelxp HD : Link 1 : Lifestyle : Lifestyle
+Travelxp HD Hindi : Link 1 : Lifestyle : Lifestyle
+Zee Zest HD : Link 1 : Lifestyle : Lifestyle
 
 News
 Zee Hindustan : Link 2 : Clarity TV | ZEE5 : News 1
