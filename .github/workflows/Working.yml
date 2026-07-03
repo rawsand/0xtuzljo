@@ -34,7 +34,7 @@ jobs:
           Rkd_Mac_PLYLST_URL: ${{ secrets.Rkd_Mac_PLYLST_URL }}
           ALX_PLYLST_URL: ${{ secrets.ALX_PLYLST_URL }}
         run: |
-          # python customlist_mix.py
+          python customlist_mix.py
           python final_epg1.py
           # python Clarity_Channel.py
           python Cricket.py
