@@ -85,7 +85,7 @@ News
 Zee Hindustan : Link 2 : Clarity TV | ZEE5 : News 1
 Zee 24 Taas : Link 1 : News : News 1
 
-Cricket
+Cricket (Partial Match)
 Astro Cricket : Link 8 : Cricket : Cricket
 Astro Cricket : Link 9 : Sports | General : Cricket
 A Sports : Link 8 : Cricket : Cricket
@@ -93,3 +93,8 @@ Fox Cric 501 : Link 8 : Cricket : Cricket
 Sky Sports Cric : Link 8 : Cricket : Cricket
 Willow Sports : Link 8 : Cricket : Cricket
 
+Movies (Partial Match)
+Picture : Link 8 : INDIA HINDI MOVIES : Movies 1
+Star : Link 8 : INDIA HINDI MOVIES : Movies 1
+Cineplex : Link 8 : INDIA HINDI MOVIES : Movies 1
+Xplor : Link 8 : INDIA HINDI MOVIES : Movies 1
