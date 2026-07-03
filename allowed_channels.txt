@@ -94,7 +94,7 @@ Sky Sports Cric : Link 8 : Cricket : Cricket
 Willow Sports : Link 8 : Cricket : Cricket
 
 Movies (Partial Match)
-Picture : Link 8 : INDIA HINDI MOVIES : Movies 1
-Star : Link 8 : INDIA HINDI MOVIES : Movies 1
-Cineplex : Link 8 : INDIA HINDI MOVIES : Movies 1
-Xplor : Link 8 : INDIA HINDI MOVIES : Movies 1
+Picture : Link 12 : INDIA HINDI MOVIES : Movies 1
+Star : Link 12 : INDIA HINDI MOVIES : Movies 1
+Cineplex : Link 12 : INDIA HINDI MOVIES : Movies 1
+Xplor : Link 12 : INDIA HINDI MOVIES : Movies 1
