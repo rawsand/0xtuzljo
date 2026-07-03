@@ -107,8 +107,16 @@ for link_name, url in playlist_links.items():
             if rule_link != link_name:
                 continue
 
+            # Link 12 uses partial channel-name matching.
+            # All other links continue using exact matching.
             if (
-                channel_name == rule_channel and
+                (
+                    (link_name == "Link 12" and
+                     (rule_channel in channel_name or channel_name in rule_channel))
+                    or
+                    (link_name != "Link 12" and channel_name == rule_channel)
+                )
+                and
                 rule_search in group_title
             ):
 
