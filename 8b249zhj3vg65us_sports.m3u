@@ -30,17 +30,17 @@ http://filex.me:8080/247166.ts
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="Cricket",CRIC || FOX CRIC 501 ᴴᴰ
 https://rkdy-xtream.vercel.app/api/live/stream?id=1856&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=12&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="23566" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=23566&token=rkdyiptv&key=rkdy
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
+https://rkdy-xtream.vercel.app/api/live/stream?id=124269&token=rkdyiptv&key=rkdy
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
 https://rkdy-xtream.vercel.app/api/live/stream?id=114479&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=124269&token=rkdyiptv&key=rkdy
+#EXTINF:-1 tvg-id="23566" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
+https://rkdy-xtream.vercel.app/api/live/stream?id=23566&token=rkdyiptv&key=rkdy
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ᴴᴰ
+https://rkdy-xtream.vercel.app/api/live/stream?id=12&token=rkdyiptv&key=rkdy
 
 #EXTINF:-1 tvg-id="2494" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="Cricket",CRIC || ASTRO CRICKET ᴴᴰ
 https://rkdy-xtream.vercel.app/api/live/stream?id=2494&token=rkdyiptv&key=rkdy

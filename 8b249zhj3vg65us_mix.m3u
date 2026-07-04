@@ -298,51 +298,51 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 #EXTHTTP:{"Cookie":"hdntl=exp=1783197326~acl=%2f*~id=6d257ff403fd7edcfa9cf213e94fd886~data=hdntl~hmac=df2995920e5338f7c7fc3c7c8dab1a48835bbc3ca551e6c271ecfa03e7ebf65d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
 
-#EXTINF:-1 tvg-id="58" tvg-name="IN: &PICTURE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: &PICTURE (4K).
-https://rkdy-xtream.vercel.app/api/live/stream?id=98856&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="59" tvg-name="IN: STAR GOLD (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD (4K).
-https://rkdy-xtream.vercel.app/api/live/stream?id=98858&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="60" tvg-name="IN: STAR GOLD SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD SELECT (4K).
-https://rkdy-xtream.vercel.app/api/live/stream?id=98859&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="61" tvg-name="IN: Colors Cineplex (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: Colors Cineplex (4K).
-https://rkdy-xtream.vercel.app/api/live/stream?id=98908&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="62" tvg-name="IN: STAR GOLD HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="Movies 1",IN: STAR GOLD HD
+#EXTINF:-1 tvg-id="58" tvg-name="IN: STAR GOLD HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="Movies 1",IN: STAR GOLD HD
 https://rkdy-xtream.vercel.app/api/live/stream?id=194&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="63" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="Movies 1",IN: Star GOLD (FHD)
+#EXTINF:-1 tvg-id="59" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="Movies 1",IN: Star GOLD (FHD)
 https://rkdy-xtream.vercel.app/api/live/stream?id=9375&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="64" tvg-name="IN: STAR GOLD 2 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD 2 (4K)
+#EXTINF:-1 tvg-id="60" tvg-name="IN: STAR GOLD 2 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD 2 (4K)
 https://rkdy-xtream.vercel.app/api/live/stream?id=157081&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="65" tvg-name="IN: STAR GOLD SELECT HD" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png" group-title="Movies 1",IN: STAR GOLD SELECT HD
+#EXTINF:-1 tvg-id="61" tvg-name="IN: STAR GOLD SELECT HD" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png" group-title="Movies 1",IN: STAR GOLD SELECT HD
 https://rkdy-xtream.vercel.app/api/live/stream?id=210&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="66" tvg-name="IN: Star Gold SELECT (FHD)" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png" group-title="Movies 1",IN: Star Gold SELECT (FHD)
+#EXTINF:-1 tvg-id="62" tvg-name="IN: Star Gold SELECT (FHD)" tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png" group-title="Movies 1",IN: Star Gold SELECT (FHD)
 https://rkdy-xtream.vercel.app/api/live/stream?id=9376&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="67" tvg-name="IN: & PICTURES HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/pictures-HD.png" group-title="Movies 1",IN: & PICTURES HD
+#EXTINF:-1 tvg-id="63" tvg-name="IN: & PICTURES HD" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/pictures-HD.png" group-title="Movies 1",IN: & PICTURES HD
 https://rkdy-xtream.vercel.app/api/live/stream?id=231&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="68" tvg-name="IN: CINEPLEX HD" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png" group-title="Movies 1",IN: CINEPLEX HD
+#EXTINF:-1 tvg-id="64" tvg-name="IN: CINEPLEX HD" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png" group-title="Movies 1",IN: CINEPLEX HD
 https://rkdy-xtream.vercel.app/api/live/stream?id=867&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="69" tvg-name="IN: Colors Cineplex (FHD)" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png" group-title="Movies 1",IN: Colors Cineplex (FHD)
+#EXTINF:-1 tvg-id="65" tvg-name="IN: Colors Cineplex (FHD)" tvg-logo="https://curl.pk/img/u/0bd18c374b345d10f04ddb205756c3a04671.png" group-title="Movies 1",IN: Colors Cineplex (FHD)
 https://rkdy-xtream.vercel.app/api/live/stream?id=9378&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="70" tvg-name="IN: COLORS CINEPLEX SUPERHITS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="Movies 1",IN: COLORS CINEPLEX SUPERHITS
+#EXTINF:-1 tvg-id="66" tvg-name="IN: COLORS CINEPLEX SUPERHITS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="Movies 1",IN: COLORS CINEPLEX SUPERHITS
 https://rkdy-xtream.vercel.app/api/live/stream?id=172368&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="71" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="https://i.ibb.co/bm9fqc8/Colors-Cineplex-Bollywood.png" group-title="Movies 1",IN: Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="67" tvg-name="IN: Colors Cineplex Bollywood" tvg-logo="https://i.ibb.co/bm9fqc8/Colors-Cineplex-Bollywood.png" group-title="Movies 1",IN: Colors Cineplex Bollywood
 https://rkdy-xtream.vercel.app/api/live/stream?id=37074&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="72" tvg-name="IN: &XPLOR (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: &XPLOR (4K)
+#EXTINF:-1 tvg-id="68" tvg-name="IN: &XPLOR (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: &XPLOR (4K)
 https://rkdy-xtream.vercel.app/api/live/stream?id=4082&token=rkdyiptv&key=rkdy
 
-#EXTINF:-1 tvg-id="73" tvg-name="IN: & XPLOR (FHD)" tvg-logo="http://geo-iptv.com/channels_icon/74966722731.png" group-title="Movies 1",IN: & XPLOR (FHD)
+#EXTINF:-1 tvg-id="69" tvg-name="IN: & XPLOR (FHD)" tvg-logo="http://geo-iptv.com/channels_icon/74966722731.png" group-title="Movies 1",IN: & XPLOR (FHD)
 https://rkdy-xtream.vercel.app/api/live/stream?id=20648&token=rkdyiptv&key=rkdy
+
+#EXTINF:-1 tvg-id="70" tvg-name="IN: &PICTURE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: &PICTURE (4K).
+https://rkdy-xtream.vercel.app/api/live/stream?id=98856&token=rkdyiptv&key=rkdy
+
+#EXTINF:-1 tvg-id="71" tvg-name="IN: STAR GOLD (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD (4K).
+https://rkdy-xtream.vercel.app/api/live/stream?id=98858&token=rkdyiptv&key=rkdy
+
+#EXTINF:-1 tvg-id="72" tvg-name="IN: STAR GOLD SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: STAR GOLD SELECT (4K).
+https://rkdy-xtream.vercel.app/api/live/stream?id=98859&token=rkdyiptv&key=rkdy
+
+#EXTINF:-1 tvg-id="73" tvg-name="IN: Colors Cineplex (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movies 1",IN: Colors Cineplex (4K).
+https://rkdy-xtream.vercel.app/api/live/stream?id=98908&token=rkdyiptv&key=rkdy
 
