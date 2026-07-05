@@ -295,7 +295,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 
 #EXTINF:-1 tvg-id="57" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Movies",Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
-#EXTHTTP:{"Cookie":"hdntl=exp=1783197326~acl=%2f*~id=6d257ff403fd7edcfa9cf213e94fd886~data=hdntl~hmac=df2995920e5338f7c7fc3c7c8dab1a48835bbc3ca551e6c271ecfa03e7ebf65d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTHTTP:{"Cookie":"hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
 
 #EXTINF:-1 tvg-id="58" tvg-name="IN: STAR GOLD HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png" group-title="Movies 1",IN: STAR GOLD HD
