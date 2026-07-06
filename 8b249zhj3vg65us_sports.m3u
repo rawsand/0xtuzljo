@@ -27,39 +27,6 @@ https://in-mc-fblive.fancode.com/mumbai/143396_english_hls_308563297d37105_1ta-d
 #EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", FOX - Not Working
 http://filex.me:8080/247166.ts
 
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="Cricket",CRIC || FOX CRIC 501 ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=1856&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=124269&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=114479&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="23566" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=23566&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="Cricket",CRIC || SKY SPORTS CRIC ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=12&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="2494" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="Cricket",CRIC || ASTRO CRICKET ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=2494&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="Cricket",CRIC || WILLOW SPORTS ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=215&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="Cricket",CRIC || WILLOW SPORTS ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=23943&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="43444" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="Cricket",CRIC || A SPORTS ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=43444&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="43447" tvg-name="CRIC || A SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Cricket",CRIC || A SPORTS ⁴ᵏ
-https://rkdy-xtream.vercel.app/api/live/stream?id=43447&token=rkdyiptv&key=rkdy
-
-#EXTINF:-1 tvg-id="1039" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="Cricket",CRIC || RTA SPORTS ᴴᴰ
-https://rkdy-xtream.vercel.app/api/live/stream?id=1039&token=rkdyiptv&key=rkdy
-
 #EXTINF:-1 tvg-id="844" tvg-name="ASTRO CRICKET" tvg-logo="844.png" group-title="Cricket",ASTRO CRICKET
 https://rkdy-mac.vercel.app/api/mac/playlist.m3u?action=stream&id=844&token=rkdyiptv&key=rkdy
 
