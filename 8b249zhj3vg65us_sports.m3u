@@ -27,6 +27,3 @@ https://in-mc-fblive.fancode.com/mumbai/143396_english_hls_308563297d37105_1ta-d
 #EXTINF:-1 tvg-id="Cricket" tvg-logo="" group-title="Cricket" group-logo="", FOX - Not Working
 http://filex.me:8080/247166.ts
 
-#EXTINF:-1 tvg-id="844" tvg-name="ASTRO CRICKET" tvg-logo="844.png" group-title="Cricket",ASTRO CRICKET
-https://rkdy-mac.vercel.app/api/mac/playlist.m3u?action=stream&id=844&token=rkdyiptv&key=rkdy
-
