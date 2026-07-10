@@ -295,6 +295,6 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 
 #EXTINF:-1 tvg-id="57" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="Movies",Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)
-#EXTHTTP:{"Cookie":"hdntl=exp=1783629649~acl=%2f*~id=b1b8e3b21312848474eb52a3aadc7216~data=hdntl~hmac=cc364d7265e7943fcb488d421f791ed655af08c5c53270ad0759c8eaa28b20c9","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTHTTP:{"Cookie":"hdntl=exp=1783717182~acl=%2f*~id=97cc320bde174f9c425eb00784648ead~data=hdntl~hmac=c9ee02577ce7f14965cd617ad1d686ca8afa6a9d18d6a0806507df5c2533210c","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
 
