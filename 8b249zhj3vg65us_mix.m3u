@@ -2,200 +2,200 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Movies", Star Movies HD
 #KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=ab5ce232daa2103037c762d68f9f095c26f65e6341af6222298fb7424e113242"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=ab5ce232daa2103037c762d68f9f095c26f65e6341af6222298fb7424e113242&xxx=%7Ccookie=__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=ab5ce232daa2103037c762d68f9f095c26f65e6341af6222298fb7424e113242
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=692e7101055103e33db7a64d3deb928886fabb058df5d2507285ddc58dd9e0cd"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=692e7101055103e33db7a64d3deb928886fabb058df5d2507285ddc58dd9e0cd&xxx=%7Ccookie=__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=692e7101055103e33db7a64d3deb928886fabb058df5d2507285ddc58dd9e0cd
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Movies", Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=385ac2f8d1c236a14adec28faf9ab1352bf6a4fa430e3a4902e6588a8e66315f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=385ac2f8d1c236a14adec28faf9ab1352bf6a4fa430e3a4902e6588a8e66315f&xxx=%7Ccookie=__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=385ac2f8d1c236a14adec28faf9ab1352bf6a4fa430e3a4902e6588a8e66315f
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=4933470e17518c702f41afaa5ee56e749967282d449b49394947d5844a2c1518"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=4933470e17518c702f41afaa5ee56e749967282d449b49394947d5844a2c1518&xxx=%7Ccookie=__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=4933470e17518c702f41afaa5ee56e749967282d449b49394947d5844a2c1518
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies", Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=d130a668bc016cd953a5777f1322f74ee4b35cd4534b95de49c63da90be685fc"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=d130a668bc016cd953a5777f1322f74ee4b35cd4534b95de49c63da90be685fc&xxx=%7Ccookie=__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=d130a668bc016cd953a5777f1322f74ee4b35cd4534b95de49c63da90be685fc
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=0926354f3a30d22e67e3b7ed466d50a94424e9890e660c952868e20547cb9819"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=0926354f3a30d22e67e3b7ed466d50a94424e9890e660c952868e20547cb9819&xxx=%7Ccookie=__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=0926354f3a30d22e67e3b7ed466d50a94424e9890e660c952868e20547cb9819
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="Movies", Star Movies
 #KODIPROP:inputstream.adaptive.license_key=e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0014b25a6548c62e351952162846817d661a4b8e4580c7ef26570b898febf378"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0014b25a6548c62e351952162846817d661a4b8e4580c7ef26570b898febf378&xxx=%7Ccookie=__hdnea__=st=1783860420~exp=1783882020~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=0014b25a6548c62e351952162846817d661a4b8e4580c7ef26570b898febf378
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=413883103fba5128d62301d96eb3c1bc8836192b65187f86e23ec4839d35b18d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=413883103fba5128d62301d96eb3c1bc8836192b65187f86e23ec4839d35b18d&xxx=%7Ccookie=__hdnea__=st=1783900512~exp=1783922112~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=413883103fba5128d62301d96eb3c1bc8836192b65187f86e23ec4839d35b18d
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="Movies", Star Gold Select
 #KODIPROP:inputstream.adaptive.license_key=09706397be655eb6a26c6ba99b65e6d5:acb1ebe04e2a29fe098d532d7a506846
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=2e71394493631afdc1dbe868855e13bddb701cf9a79ecd5f4fdd861a5d456c5b"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=2e71394493631afdc1dbe868855e13bddb701cf9a79ecd5f4fdd861a5d456c5b&xxx=%7Ccookie=__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=2e71394493631afdc1dbe868855e13bddb701cf9a79ecd5f4fdd861a5d456c5b
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=aeddf6a3182bb98a609f7402867d1a7b730ac4ce938578096530e55bebe4074f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=aeddf6a3182bb98a609f7402867d1a7b730ac4ce938578096530e55bebe4074f&xxx=%7Ccookie=__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=aeddf6a3182bb98a609f7402867d1a7b730ac4ce938578096530e55bebe4074f
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="Movies", Star Gold
 #KODIPROP:inputstream.adaptive.license_key=940a0a4080f553cab03ec23a2e80cf7c:b162354170b54cb588182eb75681cac0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=d9f89b6a7f26aa348aa83d9f1cd0b52334a3402dcb2827b7dfc4ff13fe55edd8"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd?__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=d9f89b6a7f26aa348aa83d9f1cd0b52334a3402dcb2827b7dfc4ff13fe55edd8&xxx=%7Ccookie=__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=d9f89b6a7f26aa348aa83d9f1cd0b52334a3402dcb2827b7dfc4ff13fe55edd8
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=3dda800396a1631f86bcf1048cf0344a412b7953556b7753c8ab8fd5a05de9b5"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd?__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=3dda800396a1631f86bcf1048cf0344a412b7953556b7753c8ab8fd5a05de9b5&xxx=%7Ccookie=__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=3dda800396a1631f86bcf1048cf0344a412b7953556b7753c8ab8fd5a05de9b5
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="Entertainment", Star Bharat
 #KODIPROP:inputstream.adaptive.license_key=687cfa6d31645a91ba3c38a9acdfac7c:c035ca584ac0a2170b96e2fa4523f3be
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=14d7eec55270594a86006af12e0e71342ce07cedeacf47ee22443e57b126d1bb"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd?__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=14d7eec55270594a86006af12e0e71342ce07cedeacf47ee22443e57b126d1bb&xxx=%7Ccookie=__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=14d7eec55270594a86006af12e0e71342ce07cedeacf47ee22443e57b126d1bb
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=0b28bd938e1711e3b84cc288fa1b2cb820e14bdf39f11d66169020af6ddb9dfe"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd?__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=0b28bd938e1711e3b84cc288fa1b2cb820e14bdf39f11d66169020af6ddb9dfe&xxx=%7Ccookie=__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=0b28bd938e1711e3b84cc288fa1b2cb820e14bdf39f11d66169020af6ddb9dfe
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment", Star Plus HD
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=967ad69e173d1081dd26af83ce1109fa05a9ef10bcbf435304ae9a71f408bae9"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=967ad69e173d1081dd26af83ce1109fa05a9ef10bcbf435304ae9a71f408bae9&xxx=%7Ccookie=__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=967ad69e173d1081dd26af83ce1109fa05a9ef10bcbf435304ae9a71f408bae9
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=ef11b7259d150eae0697a0b6004e00c6c5d53665c24cf5065e03aeb788fc714a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=ef11b7259d150eae0697a0b6004e00c6c5d53665c24cf5065e03aeb788fc714a&xxx=%7Ccookie=__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=ef11b7259d150eae0697a0b6004e00c6c5d53665c24cf5065e03aeb788fc714a
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="Movies", Star Utsav Movies
 #KODIPROP:inputstream.adaptive.license_key=1faf9c42dfe45669a70c470359886145:5a229a5f6f270c880b24014bf3cd6ee7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=e76a708b967ca399d82b294911c6d008c36a8785e30b3f21b0bc74650b1a849d"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=e76a708b967ca399d82b294911c6d008c36a8785e30b3f21b0bc74650b1a849d&xxx=%7Ccookie=__hdnea__=st=1783860425~exp=1783882025~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=e76a708b967ca399d82b294911c6d008c36a8785e30b3f21b0bc74650b1a849d
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=043edacde026d0bb95daf0200725b632efdabc807566af9c75c43376bcb7024c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=043edacde026d0bb95daf0200725b632efdabc807566af9c75c43376bcb7024c&xxx=%7Ccookie=__hdnea__=st=1783900517~exp=1783922117~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=043edacde026d0bb95daf0200725b632efdabc807566af9c75c43376bcb7024c
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/channel/dc2fc16b7d6f5d03d3af923c072ee5a8.png" group-title="Entertainment", Sony Marathi SD
 #KODIPROP:inputstream.adaptive.license_key=adb6b9b4fa9551ef80975d9d2a1152a4:8ee7da9df54d6d34b40a33c41c6e23d2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=50ba653908a502e2ea7a3ba5d66c981d52e2a21f409b2d2d179de389616e2ea6"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/WDVLive/index.mpd?__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=50ba653908a502e2ea7a3ba5d66c981d52e2a21f409b2d2d179de389616e2ea6&xxx=%7Ccookie=__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=50ba653908a502e2ea7a3ba5d66c981d52e2a21f409b2d2d179de389616e2ea6
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=751b1a55c831236c4f6893746165267a86736d9095ce7fc2046db1c5a436de69"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/WDVLive/index.mpd?__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=751b1a55c831236c4f6893746165267a86736d9095ce7fc2046db1c5a436de69&xxx=%7Ccookie=__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=751b1a55c831236c4f6893746165267a86736d9095ce7fc2046db1c5a436de69
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="Movies", Star Gold 2
 #KODIPROP:inputstream.adaptive.license_key=2db0cd9cb0685309b48e322c83192bda:e13bf7a33eb2e19a8f19568dd383ba6d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=505f5bb9d9c2d612589b88f03d19c57d0d3237f99666d27abc459a5794d4a5fb"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd?__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=505f5bb9d9c2d612589b88f03d19c57d0d3237f99666d27abc459a5794d4a5fb&xxx=%7Ccookie=__hdnea__=st=1783860430~exp=1783882030~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=505f5bb9d9c2d612589b88f03d19c57d0d3237f99666d27abc459a5794d4a5fb
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=57cc6ed9b7f0e8a84841e64a8ae8eab0db9ae9a0b06229f447b82f64853f5c9e"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd?__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=57cc6ed9b7f0e8a84841e64a8ae8eab0db9ae9a0b06229f447b82f64853f5c9e&xxx=%7Ccookie=__hdnea__=st=1783900522~exp=1783922122~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=57cc6ed9b7f0e8a84841e64a8ae8eab0db9ae9a0b06229f447b82f64853f5c9e
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png" group-title="Movies", Zee Talkies HD 
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860445~exp=1783882045~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a76479d2223dc58aeb4dbf2d3bb8c39c9d42c611150c8e6b91345bba01f7e4f3"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860445~exp=1783882045~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a76479d2223dc58aeb4dbf2d3bb8c39c9d42c611150c8e6b91345bba01f7e4f3&xxx=%7Ccookie=__hdnea__=st=1783860445~exp=1783882045~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a76479d2223dc58aeb4dbf2d3bb8c39c9d42c611150c8e6b91345bba01f7e4f3
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900537~exp=1783922137~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c4bbd5cb1bd325326b6941cefe52b907685d849ee0782ab51986502d51d3a50c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900537~exp=1783922137~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c4bbd5cb1bd325326b6941cefe52b907685d849ee0782ab51986502d51d3a50c&xxx=%7Ccookie=__hdnea__=st=1783900537~exp=1783922137~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c4bbd5cb1bd325326b6941cefe52b907685d849ee0782ab51986502d51d3a50c
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Entertainment", Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860450~exp=1783882050~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=3cce1da0be38dba74c00a7a240221a8d94cd0151115ba97351e233aaaeaf18ea"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860450~exp=1783882050~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=3cce1da0be38dba74c00a7a240221a8d94cd0151115ba97351e233aaaeaf18ea&xxx=%7Ccookie=__hdnea__=st=1783860450~exp=1783882050~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=3cce1da0be38dba74c00a7a240221a8d94cd0151115ba97351e233aaaeaf18ea
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900542~exp=1783922142~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=49fab21cb32a628d364c83d06f7b8ba3b270fe0fa53f5370ab29f8c24b2ac910"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900542~exp=1783922142~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=49fab21cb32a628d364c83d06f7b8ba3b270fe0fa53f5370ab29f8c24b2ac910&xxx=%7Ccookie=__hdnea__=st=1783900542~exp=1783922142~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=49fab21cb32a628d364c83d06f7b8ba3b270fe0fa53f5370ab29f8c24b2ac910
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment", Colors HD
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=04daae0351b0366a06eb8fa7152f53983145f8f76d2a6c466f8d7e1ec9ea0a5f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=04daae0351b0366a06eb8fa7152f53983145f8f76d2a6c466f8d7e1ec9ea0a5f&xxx=%7Ccookie=__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=04daae0351b0366a06eb8fa7152f53983145f8f76d2a6c466f8d7e1ec9ea0a5f
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=5f4b7c90b1d5e75ae5cd76b18a18d5735bdf259eaaa0a17238ea10ab853c5c1f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=5f4b7c90b1d5e75ae5cd76b18a18d5735bdf259eaaa0a17238ea10ab853c5c1f&xxx=%7Ccookie=__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=5f4b7c90b1d5e75ae5cd76b18a18d5735bdf259eaaa0a17238ea10ab853c5c1f
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies", Colors Cineplex Superhit
 #KODIPROP:inputstream.adaptive.license_key=234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=ef1ce0eadebd80542f82927538bcb3c28cc9f64a0369eb271246a117c27c1b9a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/index.mpd?__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=ef1ce0eadebd80542f82927538bcb3c28cc9f64a0369eb271246a117c27c1b9a&xxx=%7Ccookie=__hdnea__=st=1783860455~exp=1783882055~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=ef1ce0eadebd80542f82927538bcb3c28cc9f64a0369eb271246a117c27c1b9a
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=2a72c964619c7ff3c655e363041b810b4604aadf4de9a2929b9abde894f94128"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/index.mpd?__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=2a72c964619c7ff3c655e363041b810b4604aadf4de9a2929b9abde894f94128&xxx=%7Ccookie=__hdnea__=st=1783900547~exp=1783922147~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=2a72c964619c7ff3c655e363041b810b4604aadf4de9a2929b9abde894f94128
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTalkies.png" group-title="Movies", Zee Talkies
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860461~exp=1783882061~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=9347dc1e4fb55421574fed7ebb87d295a19f8bf470fef13b8dd7f98df11c72ac"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd?__hdnea__=st=1783860461~exp=1783882061~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=9347dc1e4fb55421574fed7ebb87d295a19f8bf470fef13b8dd7f98df11c72ac&xxx=%7Ccookie=__hdnea__=st=1783860461~exp=1783882061~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=9347dc1e4fb55421574fed7ebb87d295a19f8bf470fef13b8dd7f98df11c72ac
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900552~exp=1783922152~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=34a2367e94b97430dab6d976dd14fdc38f87884d563e231b6feaf5a9c3f606ca"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd?__hdnea__=st=1783900552~exp=1783922152~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=34a2367e94b97430dab6d976dd14fdc38f87884d563e231b6feaf5a9c3f606ca&xxx=%7Ccookie=__hdnea__=st=1783900552~exp=1783922152~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=34a2367e94b97430dab6d976dd14fdc38f87884d563e231b6feaf5a9c3f606ca
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movies", Star Gold HD
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=631af681aad6c3377460f6a740ee9952ace4a54ea4a69a0741dda2ea51c4ec19"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=631af681aad6c3377460f6a740ee9952ace4a54ea4a69a0741dda2ea51c4ec19&xxx=%7Ccookie=__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=631af681aad6c3377460f6a740ee9952ace4a54ea4a69a0741dda2ea51c4ec19
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=bac2f9516f95a1caa6cf7b1654ec231371c5d201f4ca82e718f9e59e815d84f7"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=bac2f9516f95a1caa6cf7b1654ec231371c5d201f4ca82e718f9e59e815d84f7&xxx=%7Ccookie=__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=bac2f9516f95a1caa6cf7b1654ec231371c5d201f4ca82e718f9e59e815d84f7
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle", Travelxp HD
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=e9c7d88abb16938606ebf426b95f81332ee2bfc06fcea68df6a27599fd267e17"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=e9c7d88abb16938606ebf426b95f81332ee2bfc06fcea68df6a27599fd267e17&xxx=%7Ccookie=__hdnea__=st=1783860486~exp=1783882086~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=e9c7d88abb16938606ebf426b95f81332ee2bfc06fcea68df6a27599fd267e17
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0ab0f25de45de645fb9f82420cd7e200b246893de54f47ea9818c7f8e83ce59c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0ab0f25de45de645fb9f82420cd7e200b246893de54f47ea9818c7f8e83ce59c&xxx=%7Ccookie=__hdnea__=st=1783900578~exp=1783922178~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0ab0f25de45de645fb9f82420cd7e200b246893de54f47ea9818c7f8e83ce59c
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png" group-title="Movies", And Xplor HD
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860491~exp=1783882091~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=505e0bd0067d271f7b199a1723e8c43337b8648bf7c141e9ae1086a139327f29"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860491~exp=1783882091~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=505e0bd0067d271f7b199a1723e8c43337b8648bf7c141e9ae1086a139327f29&xxx=%7Ccookie=__hdnea__=st=1783860491~exp=1783882091~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=505e0bd0067d271f7b199a1723e8c43337b8648bf7c141e9ae1086a139327f29
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900583~exp=1783922183~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=0b2a2ef8a597e6f3e11d85b4c973923de23f73dcf3a98ba7141f4195d5797a81"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900583~exp=1783922183~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=0b2a2ef8a597e6f3e11d85b4c973923de23f73dcf3a98ba7141f4195d5797a81&xxx=%7Ccookie=__hdnea__=st=1783900583~exp=1783922183~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=0b2a2ef8a597e6f3e11d85b4c973923de23f73dcf3a98ba7141f4195d5797a81
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies", Colors Cineplex Bollywood
 #KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860501~exp=1783882101~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=2530483dc00c063ce6aee7e02f4b7995c70fc9d6b794923132b4d9056ab81818"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1783860501~exp=1783882101~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=2530483dc00c063ce6aee7e02f4b7995c70fc9d6b794923132b4d9056ab81818&xxx=%7Ccookie=__hdnea__=st=1783860501~exp=1783882101~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=2530483dc00c063ce6aee7e02f4b7995c70fc9d6b794923132b4d9056ab81818
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900593~exp=1783922193~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=c616b594849cde6f3aaab75002b0462a01959842940ab29d74cc12dc0d4a00dd"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1783900593~exp=1783922193~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=c616b594849cde6f3aaab75002b0462a01959842940ab29d74cc12dc0d4a00dd&xxx=%7Ccookie=__hdnea__=st=1783900593~exp=1783922193~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=c616b594849cde6f3aaab75002b0462a01959842940ab29d74cc12dc0d4a00dd
 
 #EXTINF:-1 tvg-id="21" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle", Foodxp
 #KODIPROP:inputstream.adaptive.license_key=0f007fddd58155649c32904a67e7a91e:685c95eb5fb389053aa4d1a400239e04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860511~exp=1783882111~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=284cfbdd9d68168af4c4c29ac58edb2a80a7099c55024ebb6199195236771cf0"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1783860511~exp=1783882111~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=284cfbdd9d68168af4c4c29ac58edb2a80a7099c55024ebb6199195236771cf0&xxx=%7Ccookie=__hdnea__=st=1783860511~exp=1783882111~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=284cfbdd9d68168af4c4c29ac58edb2a80a7099c55024ebb6199195236771cf0
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900604~exp=1783922204~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=0ba387802f151094af1187e7cd57562d4ddc7f664532e5e802f0740a6189933f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1783900604~exp=1783922204~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=0ba387802f151094af1187e7cd57562d4ddc7f664532e5e802f0740a6189933f&xxx=%7Ccookie=__hdnea__=st=1783900604~exp=1783922204~acl=/bpk-tv/Food_XP_BTS/WDVLive/*~hmac=0ba387802f151094af1187e7cd57562d4ddc7f664532e5e802f0740a6189933f
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeZestHD.png" group-title="Lifestyle", Zee Zest HD
 #KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=928f315d07716fd587f6d556adf8816e8f9f45eb7f076af821d6e9787575efc4"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=928f315d07716fd587f6d556adf8816e8f9f45eb7f076af821d6e9787575efc4&xxx=%7Ccookie=__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=928f315d07716fd587f6d556adf8816e8f9f45eb7f076af821d6e9787575efc4
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=87346deb21e070ca023980c31222fee7ba85c3ab14bd1f0cb5df76836187d102"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=87346deb21e070ca023980c31222fee7ba85c3ab14bd1f0cb5df76836187d102&xxx=%7Ccookie=__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=87346deb21e070ca023980c31222fee7ba85c3ab14bd1f0cb5df76836187d102
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="Movies", Zee Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.license_key=90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=64c1a1f77221eee8384f5e52a3da58c4740e79bd296ef43a9f6b8c35930d9c4a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd?__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=64c1a1f77221eee8384f5e52a3da58c4740e79bd296ef43a9f6b8c35930d9c4a&xxx=%7Ccookie=__hdnea__=st=1783860537~exp=1783882137~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=64c1a1f77221eee8384f5e52a3da58c4740e79bd296ef43a9f6b8c35930d9c4a
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=7ee98070da4d76573df35f0a3e6d857a995fe84685159ed25e8e1a66e083354c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd?__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=7ee98070da4d76573df35f0a3e6d857a995fe84685159ed25e8e1a66e083354c&xxx=%7Ccookie=__hdnea__=st=1783900629~exp=1783922229~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=7ee98070da4d76573df35f0a3e6d857a995fe84685159ed25e8e1a66e083354c
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", SET HD
 #KODIPROP:inputstream.adaptive.license_key=ebd37e936867596a868cc085070e4cd5:f5c58e6bf0a2deb018fe87a934a6a1d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860547~exp=1783882147~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=c80297aecbdf4ab588b474dbd95293df3581de2769c27daed9c03788ed0f15be"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860547~exp=1783882147~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=c80297aecbdf4ab588b474dbd95293df3581de2769c27daed9c03788ed0f15be&xxx=%7Ccookie=__hdnea__=st=1783860547~exp=1783882147~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=c80297aecbdf4ab588b474dbd95293df3581de2769c27daed9c03788ed0f15be
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900639~exp=1783922239~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=07bc0f62e11b6aed324c2b3633a39893b420490ff8387f3181a837d3e9fc9089"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900639~exp=1783922239~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=07bc0f62e11b6aed324c2b3633a39893b420490ff8387f3181a837d3e9fc9089&xxx=%7Ccookie=__hdnea__=st=1783900639~exp=1783922239~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=07bc0f62e11b6aed324c2b3633a39893b420490ff8387f3181a837d3e9fc9089
 
 #EXTINF:-1 tvg-id="25" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies", Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4b1e95df13e7790813667bc15d6faf8e910739c3644a862360cad55631aa18c0"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4b1e95df13e7790813667bc15d6faf8e910739c3644a862360cad55631aa18c0&xxx=%7Ccookie=__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4b1e95df13e7790813667bc15d6faf8e910739c3644a862360cad55631aa18c0
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4fea44fc5d6e4830badf200c1e1f033b7cec93ab3e21e4535b51956b92135fbc"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4fea44fc5d6e4830badf200c1e1f033b7cec93ab3e21e4535b51956b92135fbc&xxx=%7Ccookie=__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=4fea44fc5d6e4830badf200c1e1f033b7cec93ab3e21e4535b51956b92135fbc
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies", Star Gold Romance
 #KODIPROP:inputstream.adaptive.license_key=ee6e9f18a6c155e3855700b34fa8436f:b670c81b0e4f7f19f1fbeac0eaa7fba8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=733525ca617cd6a84a9c61b97091f2c1b36d44236bc6a888f88d17f5cc897ac2"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/WDVLive/index.mpd?__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=733525ca617cd6a84a9c61b97091f2c1b36d44236bc6a888f88d17f5cc897ac2&xxx=%7Ccookie=__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=733525ca617cd6a84a9c61b97091f2c1b36d44236bc6a888f88d17f5cc897ac2
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=b9a108547fcdb55d5292b96f96cf150beb03b475a2e4d1bcda9d278433ab0b78"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/WDVLive/index.mpd?__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=b9a108547fcdb55d5292b96f96cf150beb03b475a2e4d1bcda9d278433ab0b78&xxx=%7Ccookie=__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Romance_BTS/WDVLive/*~hmac=b9a108547fcdb55d5292b96f96cf150beb03b475a2e4d1bcda9d278433ab0b78
 
 #EXTINF:-1 tvg-id="27" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="Movies", Star Gold Thrills
 #KODIPROP:inputstream.adaptive.license_key=189ccd629ff25ec1adc2e34d49b186eb:fd102ddbd3844b55b70c6aa23dbd212b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=4aa363700938ff45ccfff4cf596a0f46d6afeedcc6a46a3524c5e0bb70abd0b5"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd?__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=4aa363700938ff45ccfff4cf596a0f46d6afeedcc6a46a3524c5e0bb70abd0b5&xxx=%7Ccookie=__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=4aa363700938ff45ccfff4cf596a0f46d6afeedcc6a46a3524c5e0bb70abd0b5
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=b7b743c60b94b80a29b28b8e88b20a14fa50e4cd37fe9952e6389822ef92f647"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd?__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=b7b743c60b94b80a29b28b8e88b20a14fa50e4cd37fe9952e6389822ef92f647&xxx=%7Ccookie=__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=b7b743c60b94b80a29b28b8e88b20a14fa50e4cd37fe9952e6389822ef92f647
 
 #EXTINF:-1 tvg-id="28" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Movies", Star Pravah Picture HD
 #KODIPROP:inputstream.adaptive.license_key=71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=16e421f19860a8764b21039c32400820ac355ca0aa152ad198749d09878ed07b"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=16e421f19860a8764b21039c32400820ac355ca0aa152ad198749d09878ed07b&xxx=%7Ccookie=__hdnea__=st=1783860567~exp=1783882167~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=16e421f19860a8764b21039c32400820ac355ca0aa152ad198749d09878ed07b
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=7ad50b3a71c33588b0e7f5419bfae3c9ee0590ea3ae9c59277caa18afdbd637c"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=7ad50b3a71c33588b0e7f5419bfae3c9ee0590ea3ae9c59277caa18afdbd637c&xxx=%7Ccookie=__hdnea__=st=1783900660~exp=1783922260~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=7ad50b3a71c33588b0e7f5419bfae3c9ee0590ea3ae9c59277caa18afdbd637c
 
 #EXTINF:-1 tvg-id="29" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News 1", Zee 24 Taas
 #KODIPROP:inputstream.adaptive.license_key=d5d5f822f9775c6d995ec509d771e233:fdcaa71321f9f968964354dae74529c3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860629~exp=1783882229~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=f77c96562edf0c92f83ad3c9b143035e5a5c1c698a6c0bfec5f9800dd530beef"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Taas_BTS/WDVLive/index.mpd?__hdnea__=st=1783860629~exp=1783882229~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=f77c96562edf0c92f83ad3c9b143035e5a5c1c698a6c0bfec5f9800dd530beef&xxx=%7Ccookie=__hdnea__=st=1783860629~exp=1783882229~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=f77c96562edf0c92f83ad3c9b143035e5a5c1c698a6c0bfec5f9800dd530beef
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900721~exp=1783922321~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=a1fca55d1f97c3f5cab3c1c086b0105dae08fb4aee3cfcae6e31d31f69be9faf"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Taas_BTS/WDVLive/index.mpd?__hdnea__=st=1783900721~exp=1783922321~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=a1fca55d1f97c3f5cab3c1c086b0105dae08fb4aee3cfcae6e31d31f69be9faf&xxx=%7Ccookie=__hdnea__=st=1783900721~exp=1783922321~acl=/bpk-tv/Zee_24_Taas_BTS/WDVLive/*~hmac=a1fca55d1f97c3f5cab3c1c086b0105dae08fb4aee3cfcae6e31d31f69be9faf
 
 #EXTINF:-1 tvg-id="30" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Lifestyle", GOOD TiMES
 #KODIPROP:inputstream.adaptive.license_key=7dab8b8981b454aeb94478996a4ce8c9:7f5a8d49d00b27573a831347e1f429a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=afd4eb2bd10d2889cad26a4c0c3c78b075cad7f0e102e2402d6b0aeb7497da4f"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=afd4eb2bd10d2889cad26a4c0c3c78b075cad7f0e102e2402d6b0aeb7497da4f&xxx=%7Ccookie=__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=afd4eb2bd10d2889cad26a4c0c3c78b075cad7f0e102e2402d6b0aeb7497da4f
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=0b3a7717c70ac7c30956da355619b6849ac35f5c000362e90241ec6fdfcb6e47"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/WDVLive/index.mpd?__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=0b3a7717c70ac7c30956da355619b6849ac35f5c000362e90241ec6fdfcb6e47&xxx=%7Ccookie=__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/NDTV_Good_Times_BTS/WDVLive/*~hmac=0b3a7717c70ac7c30956da355619b6849ac35f5c000362e90241ec6fdfcb6e47
 
 #EXTINF:-1 tvg-id="31" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle", Food Food
 #KODIPROP:inputstream.adaptive.license_key=d5eea81fc4dc572a8746530d13faf792:63750102cfdcc507a54fbabb209c776b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=65968d4a8c06687918b7bee6e8b47b9076db1749536bca15f3e51b66ba0aacc2"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Food_Food_BTS/WDVLive/index.mpd?__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=65968d4a8c06687918b7bee6e8b47b9076db1749536bca15f3e51b66ba0aacc2&xxx=%7Ccookie=__hdnea__=st=1783860644~exp=1783882244~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=65968d4a8c06687918b7bee6e8b47b9076db1749536bca15f3e51b66ba0aacc2
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=eaa6b84352b28efc782b1e95b5099526bcf294acd54e660613b435ac9f934a04"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Food_Food_BTS/WDVLive/index.mpd?__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=eaa6b84352b28efc782b1e95b5099526bcf294acd54e660613b435ac9f934a04&xxx=%7Ccookie=__hdnea__=st=1783900736~exp=1783922336~acl=/bpk-tv/Food_Food_BTS/WDVLive/*~hmac=eaa6b84352b28efc782b1e95b5099526bcf294acd54e660613b435ac9f934a04
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Lifestyle", Travelxp HD Hindi
 #KODIPROP:inputstream.adaptive.license_key=39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860649~exp=1783882249~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=aaa769a7befb8add2fe2bc063a539cdaa5ffec3a78768b7ef1ec14c192f3fdab"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1783860649~exp=1783882249~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=aaa769a7befb8add2fe2bc063a539cdaa5ffec3a78768b7ef1ec14c192f3fdab&xxx=%7Ccookie=__hdnea__=st=1783860649~exp=1783882249~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=aaa769a7befb8add2fe2bc063a539cdaa5ffec3a78768b7ef1ec14c192f3fdab
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900741~exp=1783922341~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=1cfa4c3931a823e693ef16f84ec689f25beb306c57b14c178ecf663d5eabbdff"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1783900741~exp=1783922341~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=1cfa4c3931a823e693ef16f84ec689f25beb306c57b14c178ecf663d5eabbdff&xxx=%7Ccookie=__hdnea__=st=1783900741~exp=1783922341~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=1cfa4c3931a823e693ef16f84ec689f25beb306c57b14c178ecf663d5eabbdff
 
 #EXTINF:-1 tvg-id="33" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment", Colors Marathi HD
 #KODIPROP:inputstream.adaptive.license_key=2038491f84f6547986f8ff80e696f8b2:3316fed01103f3241733629cc6b5469f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
-#EXTHTTP:{"cookie":"__hdnea__=st=1783860710~exp=1783882310~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=a8bf115bc912865fad157ae99172b7dbbe4544bbe7874b44cf173424a85df40b"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783860710~exp=1783882310~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=a8bf115bc912865fad157ae99172b7dbbe4544bbe7874b44cf173424a85df40b&xxx=%7Ccookie=__hdnea__=st=1783860710~exp=1783882310~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=a8bf115bc912865fad157ae99172b7dbbe4544bbe7874b44cf173424a85df40b
+#EXTHTTP:{"cookie":"__hdnea__=st=1783900803~exp=1783922403~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=347435d4e3d48453f82f1139a1797b475be7cc20bb9a56754206c8625144be44"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1783900803~exp=1783922403~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=347435d4e3d48453f82f1139a1797b475be7cc20bb9a56754206c8625144be44&xxx=%7Ccookie=__hdnea__=st=1783900803~exp=1783922403~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=347435d4e3d48453f82f1139a1797b475be7cc20bb9a56754206c8625144be44
 
 #EXTINF:-1 tvg-id="34" tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeetvhd.png" group-title="Entertainment" group-logo="https://spoo.me/W7UQ5qe",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
