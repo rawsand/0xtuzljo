@@ -1,0 +1,52 @@
+
+##STAR NETWORK 
+
+
+
+##Music
+
+
+##News
+
+
+#EXTINF:-1 tvg-id="14582" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp" group-title="News 1", Zee News.
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+
+
+#EXTINF:-1 tvg-id="10541" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp" group-title="News 1", DD News.
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="News 1", Aaj Tak.
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News 1", NDTV Marathi.
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News 1",  News18 Lokmath.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News 1", TV9 Marathi.
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News 1", Abp Majha.
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News 1", NDTV India.
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News 1", NDTV 24x7.
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="News 1", India TV.
+https://indiatv.cdn.runn.tv/ptnr-RunnTV/title-IndiaTv_MI_NonSSAI/v1/vglive-sk-274906/main.m3u8
+
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="News 1", Abp News India.
+https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="News 1", News 18 India.
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8?hdnea=st=1770878842~exp=1770965242~acl=/*~hmac=3d0d331cd4e0033d1ba0545f724da1a8178dd630d2e50cf7082c0e51e612bea7
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="Business News", Zee Business.
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
