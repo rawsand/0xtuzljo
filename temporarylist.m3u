@@ -4,14 +4,15 @@
 ## Entertainment ##
 
 
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="JioTV+ | Entertainment", SET HD
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="" group-title="Entertainment", SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
 ## Movies ##
 
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="JioTV+ | Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX
+EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX
 https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
 
 
