@@ -21,7 +21,6 @@ from pathlib import Path
 CHANNEL_LIST = """
 1, News9Live
 1, Mirror Now
-1, DD INDIA
 2, Zee 24 Taas
 2, Republic TV
 2, Republic Bharat
