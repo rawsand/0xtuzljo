@@ -25,7 +25,7 @@ CHANNEL_LIST = """
 2, Republic TV
 2, Republic Bharat
 2, India Today
-
+"""
 
 # All channels will be assigned to this group.
 GROUP_TITLE = "News 1"
