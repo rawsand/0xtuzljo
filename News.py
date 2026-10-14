@@ -31,7 +31,7 @@ CHANNEL_LIST = """
 GROUP_TITLE = "News 1"
 
 # Output playlist file.
-OUTPUT_FILE = "matched_channels.m3u"
+OUTPUT_FILE = "news_channels.m3u"
 
 
 # ============================================================
