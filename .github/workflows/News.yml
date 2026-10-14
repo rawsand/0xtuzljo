@@ -1,0 +1,42 @@
+
+name: Fetch Matching TV Channels
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 2:30 AM UTC -> 8:00 AM IST
+    - cron: '30 2 * * *'
+    
+    # 10:30 AM UTC -> 4:00 PM IST
+    - cron: '30 10 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  fetch-channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch matching channels
+        env:
+          PLAYLIST_URL_1: ${{ secrets.NEWS_YUPPTV }}
+          PLAYLIST_URL_2: ${{ secrets.NEWS_SAMSUNGTVPLUS }}
+        run: python News.py
+
+      - name: Upload overwritten playlist
+        uses: actions/upload-artifact@v4
+        with:
+          name: matched-channels
+          path: news_channels.m3u
+          if-no-files-found: error
+          overwrite: true
+          retention-days: 7
