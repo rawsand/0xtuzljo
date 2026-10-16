@@ -33,6 +33,8 @@ GROUP_TITLE = "News 1"
 # Output playlist file.
 OUTPUT_FILE = "news_channels.m3u"
 
+# Third playlist: include ALL channels from this URL.
+PLAYLIST_URL_3 = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/playlist.m3u"
 
 # ============================================================
 # FETCH PLAYLIST
@@ -336,13 +338,67 @@ def main():
         for name in sorted(channel_names - found):
             missing.append((playlist_number, name))
 
-    # Generate the output M3U file.
+
+    # ============================================================
+    # FETCH ALL CHANNELS FROM THE THIRD PLAYLIST
+    # ============================================================
+
+    print("Fetching playlist 3...")
+
+    try:
+        lines = fetch_playlist(PLAYLIST_URL_3)
+        third_playlist_entries = parse_playlist(lines)
+
+    except Exception as error:
+        sys.exit(
+            f"Failed to fetch playlist 3: "
+            f"{type(error).__name__}: {error}"
+        )
+
+    print(
+        f"Playlist 3: {len(third_playlist_entries)} entries loaded."
+    )
+
+
+    # ============================================================
+    # GENERATE THE OUTPUT M3U FILE
+    # ============================================================
+
     output_lines = ["#EXTM3U"]
 
+    # Selected channels from Playlists 1 and 2
     for extinf, stream_url in matches:
         output_lines.append(extinf)
         output_lines.append(stream_url)
 
+    # All channels from Playlist 3
+    for extinf, stream_url in third_playlist_entries:
+        output_lines.append(extinf)
+        output_lines.append(stream_url)
+
+    Path(OUTPUT_FILE).write_text(
+        "\n".join(output_lines) + "\n",
+        encoding="utf-8"
+    )
+
+    # ============================================================
+    # GENERATE THE COMBINED OUTPUT M3U FILE
+    # ============================================================
+
+    output_lines = ["#EXTM3U"]
+
+    # First: selected channels from Playlists 1 and 2.
+    # These channels have group-title="News 1".
+    for extinf, stream_url in matches:
+        output_lines.append(extinf)
+        output_lines.append(stream_url)
+
+    # Second: ALL channels from Playlist 3.
+    # Preserve their original group titles and metadata.
+    for extinf, stream_url in third_playlist_entries:
+        output_lines.append(extinf)
+        output_lines.append(stream_url)
+        
     Path(OUTPUT_FILE).write_text(
         "\n".join(output_lines) + "\n",
         encoding="utf-8"
