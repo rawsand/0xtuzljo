@@ -20,11 +20,9 @@ from pathlib import Path
 
 CHANNEL_LIST = """
 1, News9Live
-1, Mirror Now
 2, Zee 24 Taas
 2, Republic TV
 2, Republic Bharat
-2, India Today
 """
 
 # All channels will be assigned to this group.
