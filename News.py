@@ -34,7 +34,7 @@ GROUP_TITLE = "News 1"
 OUTPUT_FILE = "news_channels.m3u"
 
 # Third playlist: include ALL channels from this URL.
-PLAYLIST_URL_3 = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/playlist.m3u"
+PLAYLIST_URL_3 = "https://raw.githubusercontent.com/rawsand/0xtuzljo/refs/heads/main/8b249zhj3vg65us_edit.m3u"
 
 # ============================================================
 # FETCH PLAYLIST
